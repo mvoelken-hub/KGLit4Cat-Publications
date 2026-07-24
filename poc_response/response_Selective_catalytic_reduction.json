@@ -1,0 +1,810 @@
+[
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.3390/catal8100459",
+      "publicationDate": "2018-10-17",
+      "title": "Selective Catalytic Reduction of NOx",
+      "type": "article",
+      "url": "https://openalex.org/works/W2897533073",
+      "abstract": null
+    },
+    "id": "W2897533073",
+    "index": "publications",
+    "score": 0.9872704
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1021/acscatal.6b00785",
+      "publicationDate": "2016-05-24",
+      "title": "NOx Selective Catalytic Reduction (NO<sub><i>x</i></sub>-SCR) by Urea: Evidence of the Reactivity of HNCO, Including a Specific Reaction Pathway for NOx Reduction Involving NO + NO<sub>2</sub>",
+      "type": "article",
+      "url": "https://openalex.org/works/W2394666459",
+      "abstract": "To treat the NOx emissions from diesel vehicles, NOx selective catalytic reduction (SCR) process by NH 3 requires the use of a precursor: an urea aqueous solution. Using an innovative experimental synthetic gas bench adjusted to powdered catalysts and allowing the use of urea or ammonia, the competitive reactivity of the HNCO intermediate species was evidenced. This intermediate species was found to be highly reactive toward NO 2, without NOx reduction. During the SCR process, a mix of both NO and NO 2 was evidenced to react with HNCO and contribute to the NOx reduction efficiency, resulting in an original pathway.",
+      "extracted_metadata": {
+        "reaction_name": "Selective catalytic reduction",
+        "used_starting_material": null,
+        "used_reactant": [
+          "NH3"
+        ],
+        "generated_product": [
+          "NOx"
+        ],
+        "used_catalyst": [
+          "urea aqueous solution"
+        ],
+        "used_solvent": [
+          "aqueous solution"
+        ],
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": "powdered"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Selective catalytic reduction"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "NH3"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "NOx"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": [
+            "urea aqueous solution"
+          ]
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": [
+            "aqueous solution"
+          ]
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "powdered"
+        }
+      }
+    },
+    "id": "W2394666459",
+    "index": "publications",
+    "score": 0.9855206
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1016/j.apcatb.2007.07.018",
+      "publicationDate": "2007-07-25",
+      "title": "A NO reduction system using ammonia-storage selective catalytic reduction in rich/lean excursions",
+      "type": "article",
+      "url": "https://openalex.org/works/W1992217954",
+      "abstract": null
+    },
+    "id": "W1992217954",
+    "index": "publications",
+    "score": 0.98543596
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "",
+      "publicationDate": "2005-01-01",
+      "title": "Selective Catalytic Reduction Technology for Exhaust Gas Denitrification",
+      "type": "article",
+      "url": "https://openalex.org/works/W2371198616",
+      "abstract": "Selective catalytic reduction(SCR)technology is widely used in the removal of NO_x from exhaust gas.The paper describes the principle,technical process and operation affecting factors such as catalyst activity,reaction temperature,ammonia dosage and so on.Two application cases are also introduced.",
+      "extracted_metadata": {
+        "reaction_name": "Selective catalytic reduction",
+        "used_starting_material": null,
+        "used_reactant": [
+          "NOx"
+        ],
+        "generated_product": [
+          "N2",
+          "H2O"
+        ],
+        "used_catalyst": null,
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": "other"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Selective catalytic reduction"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "NOx"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "N2",
+            "H2O"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": null
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "other"
+        }
+      }
+    },
+    "id": "W2371198616",
+    "index": "publications",
+    "score": 0.9851041
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "",
+      "publicationDate": "2014-01-01",
+      "title": "A Novel Catalytic System for the Removal of NOx from Lean-Burn Gasoline Engines",
+      "type": "article",
+      "url": "https://openalex.org/works/W2580250552",
+      "abstract": "NOx gases are among the most harmful gases emitted from mobile and stationary sources that use the hydrocarbons as the fuel in lean-burn conditions. Ammonia and urea have been applied to convert NO to N2 in lean-burn conditions successfully. However, the related problems such as ammonia slipping and facilities corrosion suggest the preferred solution is selective catalytic reduction of NO by hydrocarbon due to its simplicity and availability of hydrocarbons in the exhaust. So far, various forms of catalysts have been evaluated. However, a catalytic system with sufficient activity, selectivity or stability to satisfy the needs has not been developed and is still far away from practical application. In this work, efforts were carried out to develop an efficient catalyst with high surface area, high stability and enough acidity. A series of Zr-SBA-15-Ni catalysts have been prepared by a novel method. The selective catalytic reduction of NO with propane in the presence of excess oxygen was investigated. The reactant mixtures cover various gas compositions (NO: C3H8: O2 = 500ppm: 500–2000ppm: 6-10 vol. %) at the temperature range of 250 to 450 ⁰C. Among the various catalysts prepared, Zr-SBA-Ni-2.5 exhibited the highest activity with 100% conversion of NO to N2 and O2 in the presence of 10 vol. % oxygen, 1750 ppm propane and 500 ppm NO at 450 ⁰C.",
+      "extracted_metadata": {
+        "reaction_name": "Selective catalytic reduction",
+        "used_starting_material": null,
+        "used_reactant": [
+          "propane",
+          "oxygen"
+        ],
+        "generated_product": [
+          "N2"
+        ],
+        "used_catalyst": [
+          "Zr-SBA-15-Ni"
+        ],
+        "used_solvent": null,
+        "has_duration": "450 ⁰C",
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": "supported"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Selective catalytic reduction"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "propane",
+            "oxygen"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "N2"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": [
+            "Zr-SBA-15-Ni"
+          ]
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": "450 ⁰C"
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "supported"
+        }
+      }
+    },
+    "id": "W2580250552",
+    "index": "publications",
+    "score": 0.98472816
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "",
+      "publicationDate": "2005-01-01",
+      "title": "The research and progress in selective catalytic reduction of NO_x",
+      "type": "article",
+      "url": "https://openalex.org/works/W2371061238",
+      "abstract": "This paper introduced latest advances of reducing agent included CxHy,NH3,CO(NH2)2 and so on,and introduced several kinds of catalysts used active carbon, zeolite, metal oxides, cordierite, multiple carrier as carriers in selective catalytic reduction of NOx.The advantages and disadvantages of catalyst and reducing agent were discussed. The selective catalytic reduction of removing nitrogen oxides using urea as reducing agent and using multiple carrier catalysts will become a popular subject.",
+      "extracted_metadata": {
+        "reaction_name": "Selective catalytic reduction",
+        "used_starting_material": null,
+        "used_reactant": [
+          "CxHy",
+          "NH3",
+          "CO(NH2)2"
+        ],
+        "generated_product": [
+          "NOx"
+        ],
+        "used_catalyst": [
+          "active carbon",
+          "zeolite",
+          "metal oxides",
+          "cordierite",
+          "multiple carrier"
+        ],
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": "supported"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Selective catalytic reduction"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "CxHy",
+            "NH3",
+            "CO(NH2)2"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "NOx"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": [
+            "active carbon",
+            "zeolite",
+            "metal oxides",
+            "cordierite",
+            "multiple carrier"
+          ]
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "supported"
+        }
+      }
+    },
+    "id": "W2371061238",
+    "index": "publications",
+    "score": 0.9844845
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "",
+      "publicationDate": "2012-01-01",
+      "title": "Environmental-friendly catalysts for the selective catalytic reduction of NO_x",
+      "type": "article",
+      "url": "https://openalex.org/works/W3145191724",
+      "abstract": "Selective catalytic reduction(SCR) of nitrogen oxides(NOx) under oxygen-rich conditions is a research hotspot in the field of environmental catalysis,of which the core problem is to develop environmental-friendly,highly effective and stable SCR catalyst systems.At present,the NH3-SCR technique using urea/NH3 as reducing agent has already been widely applied for stationary flue gas denitrogenation and diesel engine exhaust purification.The HC-SCR technique using hydrogen carbons(HC) as reducing agent is also promising for practical application.For urea/NH3-SCR system,in this paper,the research progress of iron titanate catalyst,cerium-based oxide catalysts and small-pore zeolite catalysts is comprehensively summarized,including the catalyst structure,the SCR reaction mechanism,the improvement of low temperature activity and also the poisoning resistance performance.For HC-SCR system,herein,the SCR of NOx by higher HCs/diesel,and the achievements in the mechanism study of HC-SCR are summarized systematically,which can provide new guideline for the development and application of diesel-SCR technique.",
+      "extracted_metadata": {
+        "reaction_name": "Selective catalytic reduction",
+        "used_starting_material": null,
+        "used_reactant": [
+          "nitrogen oxides(NOx)",
+          "urea/NH3",
+          "hydrogen carbons(HC)",
+          "diesel"
+        ],
+        "generated_product": null,
+        "used_catalyst": [
+          "iron titanate catalyst",
+          "cerium-based oxide catalysts",
+          "small-pore zeolite catalysts"
+        ],
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": "other"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Selective catalytic reduction"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "nitrogen oxides(NOx)",
+            "urea/NH3",
+            "hydrogen carbons(HC)",
+            "diesel"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": null
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": [
+            "iron titanate catalyst",
+            "cerium-based oxide catalysts",
+            "small-pore zeolite catalysts"
+          ]
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "other"
+        }
+      }
+    },
+    "id": "W3145191724",
+    "index": "publications",
+    "score": 0.984383
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1016/j.cattod.2019.08.019",
+      "publicationDate": "2019-08-16",
+      "title": "Selective catalytic reduction of NO at low temperature using a (ethanol+ammonia) mixture over a Ag/Al2O3 + WO3/Cex-ZryO2 dual-bed catalytic system: Reactivity insight of WO3/Cex-ZryO2",
+      "type": "article",
+      "url": "https://openalex.org/works/W2967126307",
+      "abstract": "Abstract The Selective Catalytic Reduction (SCR) is one of the most efficient process for NOx removal from Diesel exhaust gas. However, the urea/NH3-SCR process implemented in recent vehicles still suffers from a poor activity in the low temperature range (T",
+      "extracted_metadata": {
+        "reaction_name": "Selective catalytic reduction",
+        "used_starting_material": null,
+        "used_reactant": [
+          "Diesel exhaust gas"
+        ],
+        "generated_product": [
+          "NOx"
+        ],
+        "used_catalyst": null,
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": null
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Selective catalytic reduction"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "Diesel exhaust gas"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "NOx"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": null
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": null
+        }
+      }
+    },
+    "id": "W2967126307",
+    "index": "publications",
+    "score": 0.9843195
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "",
+      "publicationDate": "2016-01-01",
+      "title": "Selective Catalytic Reduction (SCR) Technology Trends for the Nitrogen Oxide Removal of Exhaust Gas",
+      "type": "article",
+      "url": "https://openalex.org/works/W2583909926",
+      "abstract": "전 세계적으로 환경문제 해결 및 환경규제 강화에 발맞추어 질소산화물(NOx)을 저감하기 위한 다양한 기술 개발 역시 가속화될 것으로 판단된다. 이 가운데 선택적촉매환원법(Selective Catalytic Reduction; SCR)은 대기오염물 질의 하나인 NOx의 제거를 위해 암모니아를 환원제로 이용하여 무해한 N2 및 H2O로 전환하는 기술로서 높은 탈질효 율을 나타내고, 운전 및 유지보수 용이 등 여러 장점으로 인해 현재까지 개발된 기술 중 NOx를 저감시키는 가장 대표 적인 기술로서 세계적으로 이미 상용화되어 다양한 플랜트에 가동 중에 있다. 최근 전 세계적으로 강화된 NOx 배출 규제로 인해 SCR 기술은 주목받고 있다. NH3-SCR에 사용되는 촉매는 바나듐 및 텅스텐산화물뿐만 아니라 망간 및 세륨산화물과 제올라이트 계열 촉매들이 대표적이다. 한편, 촉매 비활성화 문제에 있어, 배기가스 중의 SO3는 NH3와 반응하여 황산암모늄염(NH4HSO3)을 형성시켜 이는 촉매 비활성화의 원인이 되며, SCR 설비 후단 열교환기 등에 침 적되어 부식현상으로 이어진다. 황성분에 의한 촉매의 비활성화를 억제하기 위해서는 SO2의 SO3로의 산화율을 억제 시키고 촉매 표면에 SO2의 흡착에 대한 반응을 제어해야 한다. SO2에 의한 비활성화 이외에도 고온 노출에 의한 열과 배기가스에 포함된 알칼리 금속에 의한 활성저하가 있다. 이러한 SCR 촉매의 비활성화는 최적 공정 조합 설계 기술 및 경제성을 고려한 촉매 재생 기술을 적용해야 한다. 따라서, NOx 배출에 있어 강화되는 법규에 만족하기 위해서는 NOx를 저감하기 위한 촉매기술의 개발이 필요하다.",
+      "extracted_metadata": {
+        "reaction_name": "Selective catalytic reduction",
+        "used_starting_material": null,
+        "used_reactant": [
+          "ammonia"
+        ],
+        "generated_product": [
+          "N2",
+          "H2O"
+        ],
+        "used_catalyst": [
+          "vanadium and tungsten oxides",
+          "manganese and cerium oxides",
+          "zeolite catalysts"
+        ],
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": "bulk"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Selective catalytic reduction"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "ammonia"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "N2",
+            "H2O"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": [
+            "vanadium and tungsten oxides",
+            "manganese and cerium oxides",
+            "zeolite catalysts"
+          ]
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "bulk"
+        }
+      }
+    },
+    "id": "W2583909926",
+    "index": "publications",
+    "score": 0.98411393
+  }
+]

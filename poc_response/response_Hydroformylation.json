@@ -1,0 +1,772 @@
+[
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.54254/2755-2721/56/20240627",
+      "publicationDate": "2024-04-24",
+      "title": "A review of hydroformylation to produce aldehyde",
+      "type": "review",
+      "url": "https://openalex.org/works/W4399979533",
+      "abstract": "Hydroformylation is additionally utilized in specialty synthetic compounds and is connected with the natural amalgamation of aromas and drugs. The advancement of hydroformylation is one of the significant accomplishments of modern science in the twentieth hundred years. Based on the important role of hydroformylation for the industrial production of aldehydes, some studies have been carried out in this paper. The research method used in this paper is literature review. At the beginning of this paper, the definition and application of hydroformylation are introduced, this paper also gives a brief review of the production of aldehyde, several representative applications of the catalytic hydroformylation process including the catalytic system (about metals and ligands), Cobalt-catalysis heavy olefin which about the catalytic cycle and two specific cases. At the end of this review, the paper gives an outlook on hydroformylation while providing a potential solution, such as using extraction, immobilizing the catalyst on a solid support, and using biphasic homogeneous catalytic systems.",
+      "extracted_metadata": {
+        "reaction_name": "Hydroformylation",
+        "used_starting_material": null,
+        "used_reactant": [
+          "heavy olefin"
+        ],
+        "generated_product": [
+          "aldehydes"
+        ],
+        "used_catalyst": [
+          "metals and ligands",
+          "Cobalt"
+        ],
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "homogeneous_catalysis",
+        "catalyst_form": "other"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Hydroformylation"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "heavy olefin"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "aldehydes"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": [
+            "metals and ligands",
+            "Cobalt"
+          ]
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "homogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "other"
+        }
+      }
+    },
+    "id": "W4399979533",
+    "index": "publications",
+    "score": 0.9891521
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1201/9781420070774.ch28",
+      "publicationDate": "2008-12-24",
+      "title": "Biphasic Hydroformylation of Higher Olefins",
+      "type": "book-chapter",
+      "url": "https://openalex.org/works/W2478154003",
+      "abstract": "Currently, worldwide production of aldehydes exceeds 7 million tons/year (Billig and Bryant 1995). Higher aldehydes are important intermediates in the synthesis of industrial solvents, biodegradable detergents, surfactants, lubricants, and other plasticizers. The process, called hydroformylation or more familiarly, the Oxo process, refers to the addition of hydrogen and the formyl group, CHO, across a double bond.",
+      "extracted_metadata": {
+        "reaction_name": "Hydroformylation",
+        "used_starting_material": null,
+        "used_reactant": null,
+        "generated_product": null,
+        "used_catalyst": null,
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "homogeneous_catalysis",
+        "catalyst_form": null
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Hydroformylation"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": null
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": null
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "homogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": null
+        }
+      }
+    },
+    "id": "W2478154003",
+    "index": "publications",
+    "score": 0.98802173
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1002/9783527853205.ch22",
+      "publicationDate": "2025-04-04",
+      "title": "Hydroformylation",
+      "type": "other",
+      "url": "https://openalex.org/works/W4409187898",
+      "abstract": "This chapter explains hydroformylation, which is one of the most important homogeneously catalysed reactions, and discusses catalyst metals, ligands and mechanisms in hydroformylation. In hydroformylation, the main reaction involves the addition of a hydrogen atom and a formyl group to an alkene. Aldehydes, especially the linear ones, are of great importance to the chemical industry. The chapter illustrates the most frequently used ligand types in hydroformylation. In one industrial hydroformylation process, a watersoluble ligand, triphenylphosphinetrisulfonate sodium salt is used. To date, the industrial applications of hydroformylation are dominated by propene as a substrate. During recent decades, a host of developments have been made in industrial hydroformylation processes. The reactivity of alkenes in hydroformylation reactions follows the usual trend, also seen in hydrogenation and other hydrofunctionalisation reactions. The asymmetric hydroformylation is attracting increasing attention for the synthesis of pharmaceuticals and fine chemicals.",
+      "extracted_metadata": {
+        "reaction_name": "Hydroformylation",
+        "used_starting_material": null,
+        "used_reactant": [
+          "propene"
+        ],
+        "generated_product": [
+          "aldehydes"
+        ],
+        "used_catalyst": [
+          "triphenylphosphinetrisulfonate sodium salt"
+        ],
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "homogeneous_catalysis",
+        "catalyst_form": "other"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Hydroformylation"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "propene"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "aldehydes"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": [
+            "triphenylphosphinetrisulfonate sodium salt"
+          ]
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "homogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "other"
+        }
+      }
+    },
+    "id": "W4409187898",
+    "index": "publications",
+    "score": 0.986755
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1093/hesc/9780198559177.003.0003",
+      "publicationDate": "2001-07-05",
+      "title": "Hydroformylation and related reactions",
+      "type": "book-chapter",
+      "url": "https://openalex.org/works/W4386773558",
+      "abstract": "This chapter focuses on hydroformylation, or the OXO (oxonation) reaction, which is used to describe the addition of CO and H 2 O to the C=C bond of an olefin or other unsaturated compounds. It talks about the synthesis of fatty alcohols from terminal olefins such as hept-l-ene. It also analyzes linear alcohols prepared by hydroformylation of mixtures of C 12 olefins obtained by the controlled oligomerization of propylene, used in the synthesis of biodegradable detergents. The chapter deals with the bulk of productions via hydroformylation which involves relatively simple olefins. This is applied to a great variety of substituted olefins, both simple and complex. It illustrates several variations of olefin hydroformylation processes that have been commercialized.",
+      "extracted_metadata": {
+        "reaction_name": "Hydroformylation",
+        "used_starting_material": null,
+        "used_reactant": [
+          "CO",
+          "H2O"
+        ],
+        "generated_product": [
+          "fatty alcohols",
+          "linear alcohols"
+        ],
+        "used_catalyst": null,
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "homogeneous_catalysis",
+        "catalyst_form": "bulk"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Hydroformylation"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "CO",
+            "H2O"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "fatty alcohols",
+            "linear alcohols"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": null
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "homogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "bulk"
+        }
+      }
+    },
+    "id": "W4386773558",
+    "index": "publications",
+    "score": 0.9863272
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1039/c4cy01131g",
+      "publicationDate": "2014-11-03",
+      "title": "Production of alcohols via hydroformylation",
+      "type": "article",
+      "url": "https://openalex.org/works/W2165547427",
+      "abstract": null
+    },
+    "id": "W2165547427",
+    "index": "publications",
+    "score": 0.9854925
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1016/b978-0-08-052349-1.00112-8",
+      "publicationDate": "1991-01-01",
+      "title": "Hydroformylation and Related Additions of Carbon Monoxide to Alkenes and Alkynes",
+      "type": "book-chapter",
+      "url": "https://openalex.org/works/W117017782",
+      "abstract": null
+    },
+    "id": "W117017782",
+    "index": "publications",
+    "score": 0.98547494
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1055/sos-sd-212-00055",
+      "publicationDate": "2014-01-01",
+      "title": "1.1.3 Tandem Hydroformylation of Alkenes",
+      "type": "book-chapter",
+      "url": "https://openalex.org/works/W2475590109",
+      "abstract": "Abstract This overview encompasses the most recent developments in the field of tandem hydroformylation reactions up to late 2012. The combination of the hydroformylation of alkenes and a subsequent transformation of the corresponding aldehydes gives access to a broad range of functionalities, relevant for both academy and industry. The chapter is subdivided according to the type of functionalization following the hydroformylation step.",
+      "extracted_metadata": {
+        "reaction_name": "Hydroformylation",
+        "used_starting_material": null,
+        "used_reactant": null,
+        "generated_product": null,
+        "used_catalyst": null,
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "homogeneous_catalysis",
+        "catalyst_form": null
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Hydroformylation"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": null
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": null
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "homogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": null
+        }
+      }
+    },
+    "id": "W2475590109",
+    "index": "publications",
+    "score": 0.9852316
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1055/sos-sd-212-00003",
+      "publicationDate": "2014-01-01",
+      "title": "1.1.1 Hydroformylation of Alkenes",
+      "type": "book-chapter",
+      "url": "https://openalex.org/works/W2495392286",
+      "abstract": "Abstract Hydroformylation of alkenes is a mild and clean method for the functionalization of hydrocarbons and has grown to be among the most important homogeneously catalyzed reactions in industry. It is a 100% atom-economic reaction to prepare aldehydes that are important synthons for organic synthesis, and has wide functional group compatibility. In this review the focus is on the effects of various catalysts on the selective hydroformylation of both functionalized and unfunctionalized alkenes to produce high-value aldehydes. In particular, rhodium catalysts have undergone a remarkable development, while cobalt catalysts have remained more or less unchanged over the years, and palladium has recently been recognized as a suitable transition metal for hydroformylation.",
+      "extracted_metadata": {
+        "reaction_name": "Hydroformylation",
+        "used_starting_material": null,
+        "used_reactant": [
+          "alkenes"
+        ],
+        "generated_product": [
+          "aldehydes"
+        ],
+        "used_catalyst": [
+          "rhenium",
+          "cobalt",
+          "palladium"
+        ],
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "homogeneous_catalysis",
+        "catalyst_form": null
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Hydroformylation"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "alkenes"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "aldehydes"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": [
+            "rhenium",
+            "cobalt",
+            "palladium"
+          ]
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "homogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": null
+        }
+      }
+    },
+    "id": "W2495392286",
+    "index": "publications",
+    "score": 0.98504156
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1002/cctc.201300474",
+      "publicationDate": "2013-11-11",
+      "title": "Hydroformylation in the Realm of Scents",
+      "type": "article",
+      "url": "https://openalex.org/works/W2130050559",
+      "abstract": "Abstract Metal (Co, Rh, Pt/Sn)‐catalyzed homogeneous hydroformylation reactions produce aldehydes, acetals, and alcohols, respectively, which are important aroma compounds that are used as ingredients in numerous perfumes, flavors, and foodstuffs. Indeed, not only the products, but also several olefins that are used as starting material have a pleasant scent. In this review, different methods for hydroformylation reactions are discusses, together with the typical aroma properties of the educts and products. We will show that hydroformylation is one of the most attractive synthetic methods in this area. Interestingly, its value seems to be rather underestimated and a re‐evaluation may be necessary.",
+      "extracted_metadata": {
+        "reaction_name": "Hydroformylation",
+        "used_starting_material": null,
+        "used_reactant": null,
+        "generated_product": [
+          "aldehydes",
+          "acetals",
+          "alcohols"
+        ],
+        "used_catalyst": [
+          "Co",
+          "Rh",
+          "Pt/Sn"
+        ],
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "homogeneous_catalysis",
+        "catalyst_form": "bulk"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Hydroformylation"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "aldehydes",
+            "acetals",
+            "alcohols"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": [
+            "Co",
+            "Rh",
+            "Pt/Sn"
+          ]
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "homogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "bulk"
+        }
+      }
+    },
+    "id": "W2130050559",
+    "index": "publications",
+    "score": 0.9848627
+  }
+]

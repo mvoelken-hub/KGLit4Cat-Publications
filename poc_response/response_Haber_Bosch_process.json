@@ -1,0 +1,926 @@
+[
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1109/spcmtt.2000.896102",
+      "publicationDate": "2002-11-11",
+      "title": "Applied aspects of nitrogen fixation by superfine powders (SFP) combustion in air phenomenon using",
+      "type": "article",
+      "url": "https://openalex.org/works/W2169946304",
+      "abstract": "It is known that the synthesis of ammonia using the Gaber method is carried out from pure nitrogen and hydrogen in severe conditions on the heterogeneous iron catalyst at high temperatures (300-400/spl deg/C) and pressure (35-100 MPa). Now it is an industrial process of chemical air nitrogen fixation. Creation of more effective ways of ammonia synthesis allowing lowering of expenses and carrying out the process in softer conditions, is an urgent problem. It was shown earlier, that in spontaneous process at SFP Al burning in air, there is a nitrogen fixation. Under certain conditions, final combustion products of more than 19.0% wei. are found. The connected nitrogen as aluminum nitride independent phase at hydrolysis in water form the ammonia. The new way of synthesising of ammonia using cheap AlN, received at SFP Al burning in industrial manufacture will allow lowering of the cost price of a product of 200% and more.",
+      "extracted_metadata": {
+        "reaction_name": "Haber-Bosch process",
+        "used_starting_material": null,
+        "used_reactant": [
+          "nitrogen",
+          "hydrogen"
+        ],
+        "generated_product": [
+          "ammonia"
+        ],
+        "used_catalyst": [
+          "iron"
+        ],
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": {
+          "value": 300.0,
+          "unit": "degC",
+          "raw_text": null
+        },
+        "has_pressure": {
+          "value": 100.0,
+          "unit": "MPa",
+          "raw_text": null
+        },
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": "bulk"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Haber-Bosch process"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "nitrogen",
+            "hydrogen"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "ammonia"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": [
+            "iron"
+          ]
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": {
+            "value": 300.0,
+            "unit": "degC",
+            "raw_text": null
+          }
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": {
+            "value": 100.0,
+            "unit": "MPa",
+            "raw_text": null
+          }
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "bulk"
+        }
+      }
+    },
+    "id": "W2169946304",
+    "index": "publications",
+    "score": 0.983987
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1126/science.1998.279.5350.twis",
+      "publicationDate": "1998-01-23",
+      "title": "This Week in Science",
+      "type": "article",
+      "url": "https://openalex.org/works/W4248383959",
+      "abstract": "Conversion of dinitrogen (N2) into ammonia requires special catalysts or extreme conditions or both; even the industrial Haber-Bosch process, which uses catalysts based on iron oxides, requires elevated temperatures and pressures to synthesize ammonia. Recently inorganic chemists have made metal complexes that activate N2 in ways analogous to enzymes like nitrogenase. Nishibayashi et al. (p. 540; see the commentary by Leigh, p. 506) now show that a tungsten-dinitrogen complex can react with ruthenium complex and hydrogen at 1 atmosphere of pressure at 55°C to produce ammonia. Dihydrogen appears to produce a hydride that attacks N2 to produce NH3.",
+      "extracted_metadata": {
+        "reaction_name": "Haber-Bosch process",
+        "used_starting_material": null,
+        "used_reactant": [
+          "dinitrogen (N2)",
+          "hydrogen"
+        ],
+        "generated_product": [
+          "ammonia"
+        ],
+        "used_catalyst": [
+          "tungsten-dinitrogen complex",
+          "ruthenium complex"
+        ],
+        "used_solvent": null,
+        "has_duration": "55 degC",
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "homogeneous_catalysis",
+        "catalyst_form": "other"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Haber-Bosch process"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "dinitrogen (N2)",
+            "hydrogen"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "ammonia"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": [
+            "tungsten-dinitrogen complex",
+            "ruthenium complex"
+          ]
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": "55 degC"
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "homogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "other"
+        }
+      }
+    },
+    "id": "W4248383959",
+    "index": "publications",
+    "score": 0.9837517
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1002/0471227617.eoc019",
+      "publicationDate": "2010-03-05",
+      "title": "Ammonia Synthesis ‐ Heterogeneous",
+      "type": "other",
+      "url": "https://openalex.org/works/W1565474684",
+      "abstract": "1. History; 2. Ammonia Synthesis with Iron-Based Catalysts; 3. Alternative Catalysts; Bibliography. The first industrial plant for the manufacture of ammonia from nitrogen and hydrogen on the basis of the Haber–Bosch process started operation in 1909 by using a promoted iron catalyst developed by Mittasch. In recent years the individual reaction steps were explored in detail, both experimentally and theoretically. Ruthenium-based catalysts present promising alternatives for future technologies.",
+      "extracted_metadata": {
+        "reaction_name": "Haber-Bosch process",
+        "used_starting_material": null,
+        "used_reactant": [
+          "nitrogen",
+          "hydrogen"
+        ],
+        "generated_product": [
+          "ammonia"
+        ],
+        "used_catalyst": [
+          "iron catalyst"
+        ],
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": "bulk"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Haber-Bosch process"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "nitrogen",
+            "hydrogen"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "ammonia"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": [
+            "iron catalyst"
+          ]
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "bulk"
+        }
+      }
+    },
+    "id": "W1565474684",
+    "index": "publications",
+    "score": 0.98358786
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1021/jacs.2c13015",
+      "publicationDate": "2023-03-30",
+      "title": "Low-Temperature Ammonia\\nSynthesis on Iron Catalyst\\nwith an Electron Donor",
+      "type": "article",
+      "url": "https://openalex.org/works/W6940697450",
+      "abstract": "Haber–Bosch process produces ammonia to provide\\nfood for\\nover 5 billion people; however, it is currently required to be produced\\nwithout the use of fossil fuels to reduce global CO 2 emissions\\nby 3% or more. It is indispensable to devise heterogeneous catalysts\\nfor the synthesis of ammonia below 100–150 °C to minimize\\nthe energy consumption of the process. In this paper, we report metallic\\niron particles with an electron-donating material as a catalyst for\\nammonia synthesis. Metallic iron particles combined with a mixture\\nof BaO and BaH 2 species in an appropriate manner could\\ncatalyze ammonia synthesis even at 100 °C. The iron catalyst\\nrevealed that iron can exhibit a high turnover frequency (∼12\\ns –1 ), which is over an order of magnitude higher\\nthan those of other transition metals used in highly active catalysts\\nfor ammonia synthesis. This can be attributed to the intrinsic nature\\nof iron to desorb adsorbed hydrogen atoms as hydrogen molecules at\\nlow temperatures.",
+      "extracted_metadata": {
+        "reaction_name": "Haber-Bosch process",
+        "used_starting_material": null,
+        "used_reactant": [
+          "nitrogen",
+          "hydrogen"
+        ],
+        "generated_product": [
+          "ammonia"
+        ],
+        "used_catalyst": [
+          "metallic iron particles",
+          "BaO",
+          "BaH 2 species"
+        ],
+        "used_solvent": null,
+        "has_duration": "100–150 °C",
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": "powdered"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Haber-Bosch process"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "nitrogen",
+            "hydrogen"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "ammonia"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": [
+            "metallic iron particles",
+            "BaO",
+            "BaH 2 species"
+          ]
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": "100–150 °C"
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "powdered"
+        }
+      }
+    },
+    "id": "W6940697450",
+    "index": "publications",
+    "score": 0.9835096
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1021/cen-09944-scicon4",
+      "publicationDate": "2021-12-06",
+      "title": "A simply smashing ammonia synthesis",
+      "type": "article",
+      "url": "https://openalex.org/works/W4367149205",
+      "abstract": "A reactor that uses steel balls to smash together nitrogen, hydrogen, and an iron catalyst can produce a continuous stream of ammonia, even at room temperature and atmospheric pressure. The discovery comes hard on the heels of other recently published mechanochemical methods for ammonia synthesis from research groups seeking environmentally friendly alternatives to the leviathan Haber-Bosch process. Haber-Bosch combines N 2 and H 2 over an iron catalyst at high pressures and temperatures; it makes about 150 million tons of ammonia per year globally, largely for fertilizer production. It also consumes vast amounts of energy and causes roughly 1% of human-made CO 2 emissions. Most of those emissions come from the production of H 2 from methane or other fossil fuels. Researchers have spent decades investigating alternative ammonia syntheses based on electrochemistry, photochemistry, plasma-based processes, and molecular catalysts that mimic those involved in biological nitrogen fixation. These approaches still face",
+      "extracted_metadata": {
+        "reaction_name": "Haber-Bosch process",
+        "used_starting_material": null,
+        "used_reactant": [
+          "N 2",
+          "H 2"
+        ],
+        "generated_product": [
+          "ammonia"
+        ],
+        "used_catalyst": [
+          "iron"
+        ],
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": {
+          "value": 273.15,
+          "unit": "K",
+          "raw_text": null
+        },
+        "has_pressure": {
+          "value": 1.0,
+          "unit": "atm",
+          "raw_text": null
+        },
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": "bulk"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Haber-Bosch process"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "N 2",
+            "H 2"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "ammonia"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": [
+            "iron"
+          ]
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": {
+            "value": 273.15,
+            "unit": "K",
+            "raw_text": null
+          }
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": {
+            "value": 1.0,
+            "unit": "atm",
+            "raw_text": null
+          }
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "bulk"
+        }
+      }
+    },
+    "id": "W4367149205",
+    "index": "publications",
+    "score": 0.98303705
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1149/ma2022-02481809mtgabs",
+      "publicationDate": "2022-10-09",
+      "title": "Iron Based Catalysts for Nitrogen Reduction Reaction",
+      "type": "article",
+      "url": "https://openalex.org/works/W4309837271",
+      "abstract": "Ammonia (NH 3 ) is a fundamental feedstock for the global population not only for its wide use as fertilizer and chemical, but also for its potential as energy storage medium. Its synthesis at the industrial scale is based on the well-known Haber Bosch process, operating at high temperature (400-500°C) and high pressure (150-300atm), thus making it highly pollutant. Considering the global climate emergency, it is mandatory to develop a green ammonia synthesis that relies on milder conditions and may adopt renewable energy sources. The electrochemical synthesis, of NH 3 from N 2 and H 2 O at ambient conditions and using renewable energy driven electricity could be a promising approach. An efficient electrochemical ammonia synthesis however, is currently still lacking. The main reasons are the absence of adequate catalysts capable of dissociating the N 2 triple bond and the competition with the hydrogen evolution reaction (HER) at the cathode, since the required potential is close to that of nitrogen reduction reaction (NRR), required for the ammonia formation. There are some reaction models in the literature but it is commonly accepted that the dissociative adsorption of N 2 is the rate limiting step and extensive research has been done on nitrogen interaction with metal surfaces. Ru, Co, Bi, Au, Fe, Mo, etc based materials have been extensively tested for the green ammonia synthesis, but results are still conflicting also because a complete evaluation of environmental contaminations is still lacking. In this work we adopted as NRR catalyst Fe based nanoparticles on carbon cloth substrate via a simple and fast electroless deposition technique. We prepared a FeCl 3 solutions with different concentrations in the range 1-10mM and deposited a drop on (3x1.5) cm 2 samples of carbon cloth, on a hot plate, at 80°C. After evaporation of the water, the as deposited substrates were dipped in NaBH 4 solution while stirring. The catalyst morphology has been studied by Scanning Electron Microscopy (SEM), as a function of the concentration. Very small particles, with a size ranging from 10 to 70nm, were obtained with the most diluted solution. The cluster size increases with increasing FeCl 3 concentration in the solution, giving rise to strong coalescence effects and to the formation of a thicker and continuous layer in the case of the most concentrated solution. Scanning Transmission electron Microscopy (STEM) and Electron Energy Loss Spectroscopy (EELS) have been adopted to determine the composition. EELS spectra showed that the iron L-edge is that typical of Fe 3 O 4 materials. The electrochemical ability to reduce nitrogen, with the formation of ammonia, was evaluated in a standard two compartment cell, with a phosphate buffered solution (PBS 0.1M) adopting a Zirfon membrane as a gas separator. Ar or N 2 gas (both with a purity of 99.9999%) flowed in the cathode chamber after going through an acidic trap and a water trap, to be further purified. A rigorous protocol has been adopted to evaluate the ammonia production, including a two steps measurement of the environmental ammonia at the open circuit potential. The ammonia was measured by spectrophotometric analysis using the indophenol blue method. The electrochemical production of ammonia was obtained by chronoamperometry under constant voltage. For the iron-based catalysts, a very efficient activation procedure has been developed, based on cyclic voltammetry under N 2 flow. The activation process allows an improvement up to 10 times in the ammonia generation rate. Moreover, a strong correlation has been found between the particle size of the catalyst and its activity for NRR, with the best results achieved with the sample covered with nanoparticles, exhibiting also the highest electrochemical active area. Iron based nanoparticles showed excellent activity for NRR, with a faradaic efficiency of 15% at -0.35 V vs RHE and a maximum ammonia production rate of 85µg mg -1 cat h -1 . Acknowledgements:This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No101006941.",
+      "extracted_metadata": {
+        "reaction_name": "Haber-Bosch process",
+        "used_starting_material": null,
+        "used_reactant": [
+          "N2",
+          "H2O"
+        ],
+        "generated_product": [
+          "NH3"
+        ],
+        "used_catalyst": [
+          "Fe based nanoparticles on carbon cloth"
+        ],
+        "used_solvent": null,
+        "has_duration": "80°C",
+        "has_temperature": null,
+        "has_pressure": {
+          "value": 150.0,
+          "unit": "atm",
+          "raw_text": null
+        },
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "other",
+        "catalyst_form": "powdered"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Haber-Bosch process"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "N2",
+            "H2O"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "NH3"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": [
+            "Fe based nanoparticles on carbon cloth"
+          ]
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": "80°C"
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": {
+            "value": 150.0,
+            "unit": "atm",
+            "raw_text": null
+          }
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "other"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "powdered"
+        }
+      }
+    },
+    "id": "W4309837271",
+    "index": "publications",
+    "score": 0.98188984
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "",
+      "publicationDate": "1987-01-01",
+      "title": "Delinqüència a Mllorca en el segle XVII (1613-19)",
+      "type": "article",
+      "url": "https://openalex.org/works/W29686395",
+      "abstract": "The current industrial ammonia synthesis relies on Haber-Bosch process that is initiated by the dissociative mechanism, in which the adsorbed N 2 dissociates directly, and thus is limited by Brønsted-Evans-Polanyi (BEP) relation. Here we propose a new strategy that an anchored Fe 3 cluster on the θ-Al 2 O 3 (010) surface as a heterogeneous catalyst for ammonia synthesis from first-principles theoretical study and microkinetic analysis. We have studied the whole catalytic mechanism for conversion of N 2 to NH 3 on Fe 3 /θ-Al 2 O 3 (010), and find that an associative mechanism, in which the adsorbed N 2 is first hydrogenated to NNH, dominates over the dissociative mechanism, which we attribute to the large spin polarization, low oxidation state of iron, and multi-step redox capability of Fe 3 cluster. The associative mechanism liberates the turnover frequency (TOF) for ammonia production from the limitation due to the BEP relation, and the calculated TOF on Fe 3 /θ-Al 2 O 3 (010) is comparable to Ru B5 site.",
+      "extracted_metadata": {
+        "reaction_name": "Haber-Bosch process",
+        "used_starting_material": null,
+        "used_reactant": [
+          "N 2"
+        ],
+        "generated_product": [
+          "NH 3"
+        ],
+        "used_catalyst": [
+          "Fe 3 /θ-Al 2 O 3 (010)"
+        ],
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": "supported"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Haber-Bosch process"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "N 2"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "NH 3"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": [
+            "Fe 3 /θ-Al 2 O 3 (010)"
+          ]
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "supported"
+        }
+      }
+    },
+    "id": "W29686395",
+    "index": "publications",
+    "score": 0.9818382
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1002/anie.202112095",
+      "publicationDate": "2021-10-15",
+      "title": "Mechanocatalytic Room‐Temperature Synthesis of Ammonia from Its Elements Down to Atmospheric Pressure",
+      "type": "article",
+      "url": "https://openalex.org/works/W3207935309",
+      "abstract": "Ammonia synthesis via the high-temperature and high-pressure Haber-Bosch process is one of the most important chemical processes in the world. In spite of numerous attempts over the last 100 years, continuous Haber-Bosch type ammonia synthesis at room-temperature had not been possible, yet. We report the development of a mechanocatalytic system operating continuously at room-temperature and at pressures down to 1 bar. With optimized experimental conditions, a cesium-promoted iron catalyst was shown to produce ammonia at concentrations of more than 0.2 vol. % for over 50 hours.",
+      "extracted_metadata": {
+        "reaction_name": "Haber-Bosch process",
+        "used_starting_material": null,
+        "used_reactant": [
+          "nitrogen",
+          "hydrogen"
+        ],
+        "generated_product": [
+          "ammonia"
+        ],
+        "used_catalyst": [
+          "cesium-promoted iron catalyst"
+        ],
+        "used_solvent": null,
+        "has_duration": "50 hours",
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": "other"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Haber-Bosch process"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "nitrogen",
+            "hydrogen"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "ammonia"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": [
+            "cesium-promoted iron catalyst"
+          ]
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": "50 hours"
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "other"
+        }
+      }
+    },
+    "id": "W3207935309",
+    "index": "publications",
+    "score": 0.9816127
+  }
+]

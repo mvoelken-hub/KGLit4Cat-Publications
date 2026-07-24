@@ -1,0 +1,872 @@
+[
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1080/03602458008067535",
+      "publicationDate": "1980-01-01",
+      "title": "The Water-Gas Shift Reaction",
+      "type": "article",
+      "url": "https://openalex.org/works/W2078932319",
+      "abstract": "Abstract The water-gas shift is a reversible, exothermic chemical reaction, usually assisted by a catalyst, and is the' reaction of steam with carbon monoxide to produce carbon dioxide and hydrogen gas",
+      "extracted_metadata": {
+        "reaction_name": "Water–gas shift reaction",
+        "used_starting_material": null,
+        "used_reactant": [
+          "carbon monoxide",
+          "steam"
+        ],
+        "generated_product": [
+          "carbon dioxide",
+          "hydrogen gas"
+        ],
+        "used_catalyst": null,
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": "other"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Water–gas shift reaction"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "carbon monoxide",
+            "steam"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "carbon dioxide",
+            "hydrogen gas"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": null
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "other"
+        }
+      }
+    },
+    "id": "W2078932319",
+    "index": "publications",
+    "score": 0.98453337
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "",
+      "publicationDate": "2007-01-01",
+      "title": "Hydrogen",
+      "type": "article",
+      "url": "https://openalex.org/works/W7099948261",
+      "abstract": null
+    },
+    "id": "W7099948261",
+    "index": "publications",
+    "score": 0.9844422
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.20944/preprints202310.1035.v1",
+      "publicationDate": "2023-10-17",
+      "title": "Recent Advances in Reverse Water Gas Conversion Reaction",
+      "type": "preprint",
+      "url": "https://openalex.org/works/W4387697028",
+      "abstract": "The increase in carbon dioxide emissions has a significant impact on human society and the global environment. As the most abundant and cheap C1 resource, the conversion and utilization of carbon dioxide has received extensive attention from researchers. In many methods of carbon dioxide conversion and utilization, the reverse water gas conversion reaction is considered to be one of the most effective ways. In this paper, the research progress of reverse water gas conversion reaction in recent years is introduced.",
+      "extracted_metadata": {
+        "reaction_name": "Water–gas shift reaction",
+        "used_starting_material": null,
+        "used_reactant": null,
+        "generated_product": null,
+        "used_catalyst": null,
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": null
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Water–gas shift reaction"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": null
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": null
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": null
+        }
+      }
+    },
+    "id": "W4387697028",
+    "index": "publications",
+    "score": 0.98222685
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "",
+      "publicationDate": "1989-01-01",
+      "title": "Kinetic mechanism of the water-gas-shift reaction over K/sub 2/CO/sub 3//carbon",
+      "type": "article",
+      "url": "https://openalex.org/works/W2299040644",
+      "abstract": "Kinetic data of the alkali catalyzed WGS reaction can be described by a two step oxygen-exchange mechanism and an additional CO/sub 2/-chemisorption step. The Water-Gas-Shift reaction rate is dependent on both the partial pressure of the reducing and the oxidizing agent. In the presence of CO/sub 2/ in the gas phase reactivity is low, or decreases significantly if CO/sub 2/ is added to a CO, H/sub 2/O mixture.",
+      "extracted_metadata": {
+        "reaction_name": "Water–gas shift reaction",
+        "used_starting_material": null,
+        "used_reactant": null,
+        "generated_product": null,
+        "used_catalyst": null,
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": null
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Water–gas shift reaction"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": null
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": null
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": null
+        }
+      }
+    },
+    "id": "W2299040644",
+    "index": "publications",
+    "score": 0.98209965
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "",
+      "publicationDate": "2010-01-01",
+      "title": "Scale-up and Assessment of Water Gas Shifts",
+      "type": "article",
+      "url": "https://openalex.org/works/W294673352",
+      "abstract": "Synthesis gas consists of a mixture between hydrogen, carbon monoxide, carbon dioxide and water. This gas is normally generated by gasification of a carbon containing fuel, to be used as a feedstock for various synthesis processes. The actual composition of the gas depends on many different factors such as type of fuel, type of gasifier, mode of operation of the gasifier etc. The producer gas, i.e. the gas after the gasification step, usually need upgrading since it contains lower hydrocarbons and tars that needs to be converted. This upgrading, from producer gas into synthesis gas is done in the reformer step. The resulting synthesis gas is not necessarily suited for the subsequent synthesis step; it might need to be processed further. For instance the carbon dioxide level might need to be decreased and/or the hydrogen-carbon dioxide ratio to be adjusted. The water gas shift (WGS) process is the process where the ratio between hydrogen and carbon monoxide in the synthesis gas can be tuned.",
+      "extracted_metadata": {
+        "reaction_name": "Water–gas shift reaction",
+        "used_starting_material": null,
+        "used_reactant": [
+          "carbon dioxide",
+          "hydrogen"
+        ],
+        "generated_product": [
+          "carbon monoxide",
+          "water"
+        ],
+        "used_catalyst": null,
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": "other"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Water–gas shift reaction"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "carbon dioxide",
+            "hydrogen"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "carbon monoxide",
+            "water"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": null
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "other"
+        }
+      }
+    },
+    "id": "W294673352",
+    "index": "publications",
+    "score": 0.9820844
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1016/j.apenergy.2019.114078",
+      "publicationDate": "2019-11-14",
+      "title": "Water gas shift reaction for hydrogen production and carbon dioxide capture: A review",
+      "type": "review",
+      "url": "https://openalex.org/works/W2984973874",
+      "abstract": "Abstract The water gas shift reaction is an important and commonly employed reaction in the industry. In the water gas shift reaction, hydrogen is produced from water or steam while carbon monoxide is converted into carbon dioxide. Over the years, on account of the progress in hydrogen energy and carbon capture and storage for developing alternative fuels and mitigating the atmospheric greenhouse effect, the water gas shift reaction has become a crucial route to simultaneously reach the requirements of hydrogen production and carbon dioxide enrichment, thereby enhancing CO2 capture. This article provides a comprehensive review of the research progress in the water gas shift reaction, with particular attention paid to the thermodynamic and kinetic characteristics. The performance of the water gas shift reaction highly depends on the adopted catalysts whose progress in recent years is extensively reviewed. The behaviors of the water gas shift reaction in special environments are also illustrated, several cases have the ability to proceed with water gas shift reaction without any catalyst. The utilization of several separation technologies on the water gas shift reaction such as carbon capture and storage and membrane reactors for purifying hydrogen and enriching carbon dioxide will be addressed as well. Reviewing past studies suggests that separating hydrogen and carbon dioxide in the product gas from the water gas shift reaction can not only increase efficiency but also enhance the usability for further application. The CO conversion is beyond the thermodynamic limitation after applying membrane for the water gas shift reaction.",
+      "extracted_metadata": {
+        "reaction_name": "Water–gas shift reaction",
+        "used_starting_material": null,
+        "used_reactant": [
+          "water",
+          "steam",
+          "carbon monoxide"
+        ],
+        "generated_product": [
+          "carbon dioxide",
+          "hydrogen"
+        ],
+        "used_catalyst": null,
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": "other"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Water–gas shift reaction"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "water",
+            "steam",
+            "carbon monoxide"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "carbon dioxide",
+            "hydrogen"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": null
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "other"
+        }
+      }
+    },
+    "id": "W2984973874",
+    "index": "publications",
+    "score": 0.9820812
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1016/0920-5861(95)00323-1",
+      "publicationDate": "1996-06-01",
+      "title": "Water-gas shift conversion using a feed with a low steam to carbon monoxide ratio and containing sulphur",
+      "type": "article",
+      "url": "https://openalex.org/works/W2041335864",
+      "abstract": null
+    },
+    "id": "W2041335864",
+    "index": "publications",
+    "score": 0.9819569
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "",
+      "publicationDate": null,
+      "title": "Conversion of Carbon Monoxide Co With Water And Calculation of Balanced Structure Of Gaseous and Condensed Phases",
+      "type": "article",
+      "url": "https://openalex.org/works/W7008803970",
+      "abstract": "The balanced structure of gaseous and condensed phases, which were formed in CO – H2O system was calculated in this clause. The chemistry of conversion of CO gas with water pairs of water based fuel was revealed and the conclusion about the formation of CO gas on HCOOH bases was made. Then CO gas turns to COgas with the help of hydroxyl and peroxide OH and HO2radicals",
+      "extracted_metadata": {
+        "reaction_name": "Water–gas shift reaction",
+        "used_starting_material": null,
+        "used_reactant": [
+          "CO",
+          "H2O"
+        ],
+        "generated_product": [
+          "CO"
+        ],
+        "used_catalyst": null,
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "other",
+        "catalyst_form": null
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Water–gas shift reaction"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "CO",
+            "H2O"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "CO"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": null
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "other"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": null
+        }
+      }
+    },
+    "id": "W7008803970",
+    "index": "publications",
+    "score": 0.9816121
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "",
+      "publicationDate": "2013-06-25",
+      "title": "The Effect of Lanthanum on Iron Based Water-Shift Catalysts",
+      "type": "article",
+      "url": "https://openalex.org/works/W7037302523",
+      "abstract": "The water-gas shift reaction is the reaction where carbon monoxide and water react to form carbon dioxide and hydrogen as shown in equation 1.",
+      "extracted_metadata": {
+        "reaction_name": "Water–gas shift reaction",
+        "used_starting_material": null,
+        "used_reactant": [
+          "carbon monoxide",
+          "water"
+        ],
+        "generated_product": [
+          "carbon dioxide",
+          "hydrogen"
+        ],
+        "used_catalyst": null,
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": null
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Water–gas shift reaction"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "carbon monoxide",
+            "water"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "carbon dioxide",
+            "hydrogen"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": null
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": null
+        }
+      }
+    },
+    "id": "W7037302523",
+    "index": "publications",
+    "score": 0.98133355
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.4271/780199",
+      "publicationDate": "1978-02-01",
+      "title": "Water-Gas Shift and Steam Reforming Reactions Over a Rhodium Three-Way Catalyst",
+      "type": "article",
+      "url": "https://openalex.org/works/W1584534578",
+      "abstract": "Under oxygen-deficient (rich) conditions, a potential route to maintaining control of carbon monoxide (CO) and hydrocarbon (HC) emissions in a three-way system is through reactions of these pollutants with water vapor (H 2 O). The importance of such reactions over supported rhodium was investigated in the laboratory. The water-gas shift (CO + H 2 O) was insignificant. Steam reforming (HC + H 2 O) took place, but gave CO as a product. Thus, if CO conversion governs the rich-side effectiveness of a three-way catalyst, steam reforming which converts HC to CO is unlikely, in itself, to improve three-way performance.",
+      "extracted_metadata": {
+        "reaction_name": "Water–gas shift reaction",
+        "used_starting_material": null,
+        "used_reactant": [
+          "CO",
+          "H 2 O"
+        ],
+        "generated_product": [
+          "CO"
+        ],
+        "used_catalyst": [
+          "rhodium"
+        ],
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "homogeneous_catalysis",
+        "catalyst_form": "other"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Water–gas shift reaction"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "CO",
+            "H 2 O"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "CO"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": [
+            "rhodium"
+          ]
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "homogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "other"
+        }
+      }
+    },
+    "id": "W1584534578",
+    "index": "publications",
+    "score": 0.98109025
+  }
+]

@@ -1,0 +1,6 @@
+requests
+urllib3
+python-dotenv
+ollama
+pydantic>=2
+owlready2
