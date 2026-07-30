@@ -4,3 +4,7 @@ python-dotenv
 ollama
 pydantic>=2
 owlready2
+
+# analysis/ -- post-hoc analysis of poc_response/ output, not used by the pipeline itself
+pandas
+matplotlib

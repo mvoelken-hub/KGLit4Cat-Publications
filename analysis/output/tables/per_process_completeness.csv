@@ -1,0 +1,11 @@
+process,n_retrieved,n_with_abstract,n_extracted,pct_extracted
+Haber-Bosch process,8,8,8,100.0
+Ostwald process,9,8,8,88.9
+Water–gas shift reaction,10,8,8,80.0
+Contact process,9,7,7,77.8
+Selective catalytic reduction,9,7,7,77.8
+Hydroformylation,9,7,7,77.8
+Fischer-Tropsch process,10,7,7,70.0
+Methanation,8,5,5,62.5
+Fluid catalytic cracking,9,5,5,55.6
+Steam reforming,9,4,4,44.4
