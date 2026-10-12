@@ -1,0 +1,13 @@
+| process | article | book-chapter | other | review | dissertation | preprint | n_total |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Contact process | 9 | 0 | 0 | 0 | 0 | 0 | 9 |
+| Fischer-Tropsch process | 8 | 1 | 1 | 0 | 0 | 0 | 10 |
+| Fluid catalytic cracking | 3 | 5 | 1 | 0 | 0 | 0 | 9 |
+| Haber-Bosch process | 7 | 0 | 1 | 0 | 0 | 0 | 8 |
+| Hydroformylation | 2 | 5 | 1 | 1 | 0 | 0 | 9 |
+| Methanation | 6 | 0 | 1 | 1 | 0 | 0 | 8 |
+| Ostwald process | 8 | 0 | 0 | 0 | 1 | 0 | 9 |
+| Selective catalytic reduction | 9 | 0 | 0 | 0 | 0 | 0 | 9 |
+| Steam reforming | 3 | 5 | 0 | 1 | 0 | 0 | 9 |
+| Water–gas shift reaction | 8 | 0 | 0 | 1 | 0 | 1 | 10 |
+| Total | 63 | 16 | 5 | 4 | 1 | 1 | 90 |

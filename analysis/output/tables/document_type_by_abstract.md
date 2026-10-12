@@ -1,0 +1,9 @@
+| document_type | n | n_with_abstract | n_without_abstract | pct_without_abstract | pct_of_retrieved | pct_of_with_abstract | pct_of_without_abstract |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| article | 63 | 49 | 14 | 22.2 | 70.0 | 74.2 | 58.3 |
+| book-chapter | 16 | 6 | 10 | 62.5 | 17.8 | 9.1 | 41.7 |
+| other | 5 | 5 | 0 | 0.0 | 5.6 | 7.6 | 0.0 |
+| review | 4 | 4 | 0 | 0.0 | 4.4 | 6.1 | 0.0 |
+| dissertation | 1 | 1 | 0 | 0.0 | 1.1 | 1.5 | 0.0 |
+| preprint | 1 | 1 | 0 | 0.0 | 1.1 | 1.5 | 0.0 |
+| Total | 90 | 66 | 24 | 26.7 | 100.0 | 100.0 | 100.0 |
