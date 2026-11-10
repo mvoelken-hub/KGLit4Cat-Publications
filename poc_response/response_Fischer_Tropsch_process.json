@@ -1,0 +1,832 @@
+[
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1051/e3sconf/202339005033",
+      "publicationDate": "2023-01-01",
+      "title": "Study of the process of obtaining hydrocarbons on the basis of synthesis gas and the fischer-tropsch synthesis reaction",
+      "type": "article",
+      "url": "https://openalex.org/works/W4379056990",
+      "abstract": "The Fischer–Tropsch process is a collection of chemical reactions that converts a mixture of carbon monoxide and hydrogen, known as syngas, into liquid hydrocarbons. These reactions occur in the presence of metal catalysts, typically at temperatures of 150–300°C (302–572°F) and pressures of one to several tens of atmospheres. The Fischer–Tropsch process is an important reaction in both coal liquefaction and gas to liquids technology for producing liquid hydrocarbons. In the usual implementation, carbon monoxide and hydrogen, the feedstocks for FT, are produced from coal, natural gas, or biomass in a process known as gasification. The process then converts these gases into synthetic lubrication oil and synthetic fuel. This process has received intermittent attention as a source of low-sulfur diesel fuel and to address the supply or cost of petroleum-derived hydrocarbons. Fischer-Tropsch process is discussed as a step of producing carbon-neutral liquid hydrocarbon fuels from CO2 and hydrogen. The article is devoted to the use of synthesis gas as an alternative petroleum raw material for obtaining artificial liquid fuels, hydrocarbons (Fisher-Tropsch synthesis) and aldehydes (hydroformylation or oxo-synthesis). The mechanisms of the considered reactions are discussed.",
+      "extracted_metadata": {
+        "reaction_name": "Fischer-Tropsch process",
+        "used_starting_material": null,
+        "used_reactant": [
+          "carbon monoxide",
+          "hydrogen"
+        ],
+        "generated_product": [
+          "liquid hydrocarbons",
+          "synthetic lubrication oil",
+          "synthetic fuel",
+          "carbon-neutral liquid hydrocarbon fuels",
+          "hydrocarbons",
+          "aldehydes"
+        ],
+        "used_catalyst": [
+          "metal catalysts"
+        ],
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": {
+          "value": null,
+          "unit": "atm",
+          "raw_text": null
+        },
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": "other"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Fischer-Tropsch process"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "carbon monoxide",
+            "hydrogen"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "liquid hydrocarbons",
+            "synthetic lubrication oil",
+            "synthetic fuel",
+            "carbon-neutral liquid hydrocarbon fuels",
+            "hydrocarbons",
+            "aldehydes"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": [
+            "metal catalysts"
+          ]
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": {
+            "value": null,
+            "unit": "atm",
+            "raw_text": null
+          }
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "other"
+        }
+      }
+    },
+    "id": "W4379056990",
+    "index": "publications",
+    "score": 0.99332416
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1002/0471238961.fiscdekl.a01",
+      "publicationDate": "2013-01-18",
+      "title": "Fischer–Tropsch Process",
+      "type": "other",
+      "url": "https://openalex.org/works/W2101442387",
+      "abstract": "Abstract A Fischer–Tropsch process always forms part of a larger indirect liquefaction facility, which consists of three processing steps. The first step is to convert a carbon source, such as coal, natural gas, biomass, or organic waste, into synthesis gas (syngas). Syngas is a mixture of hydrogen and carbon monoxide, and it is the feed material for a Fischer–Tropsch process, which is the second step in the indirect liquefaction process. Fischer–Tropsch synthesis is the catalytic polymerization and hydrogenation of CO, which produces a synthetic crude oil (syncrude). The syncrude is a multiphase mixture of hydrocarbons, oxygenates, and water. The third step is the refining of the syncrude to products that are traditionally produced from conventional crude oil, such as transportation fuels and petrochemicals. The current contribution deals only with the Fischer–Tropsch process; the generation of syngas and the refining of Fischer–Tropsch syncrude are not discussed in any detail. A Fischer–Tropsch process has three main elements: catalyst, reactor, and gas loop. Fischer–Tropsch catalysis is described to explain the relationship among the different catalyst types, operating conditions, and products. A description of the main syncrude types and their compositions is also provided. Fischer–Tropsch technologies are discussed, with an explanation of the relationship between catalyst and reactor, the tradeoffs involved in different catalyst–reactor combinations, as well as guidelines for technology selection. The role of the Fischer–Tropsch gas loop is outlined, with a discussion of the key elements of the gas loop and how they affect the overall performance of a Fischer–Tropsch process.",
+      "extracted_metadata": {
+        "reaction_name": "Fischer-Tropsch process",
+        "used_starting_material": null,
+        "used_reactant": [
+          "synthesis gas"
+        ],
+        "generated_product": [
+          "synthetic crude oil (syncrude)"
+        ],
+        "used_catalyst": null,
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": "other"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Fischer-Tropsch process"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "synthesis gas"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "synthetic crude oil (syncrude)"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": null
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "other"
+        }
+      }
+    },
+    "id": "W2101442387",
+    "index": "publications",
+    "score": 0.991605
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1016/b978-0-08-022390-2.50020-5",
+      "publicationDate": "1980-01-01",
+      "title": "Chemicals, feedstocks and fuels from Fischer-Tropsch and related syntheses",
+      "type": "book-chapter",
+      "url": "https://openalex.org/works/W93740372",
+      "abstract": null
+    },
+    "id": "W93740372",
+    "index": "publications",
+    "score": 0.9885897
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.4236/jpee.2013.15006",
+      "publicationDate": "2013-01-01",
+      "title": "Industrial Feasiblity of Direct Methane Conversion to Hydrocarbons over Fe-Based Fischer Tropsch Catalyst",
+      "type": "article",
+      "url": "https://openalex.org/works/W2075830912",
+      "abstract": "Recently, as a direct consequence of the dwindling world oil reserves and the growing awareness of the environmental problems associated with the use of coal as energy source, there is growing interest in cheaper, abundant and cleaner burning methane. The Gas-to-Liquid technology offers perhaps the most attractive routes for the exploitation of the world huge and growing natural gas resources. Using this process the erstwhile stranded gas is converted to premium grade liquid fuels and chemicals that are easily transported. However, a widespread application of the GTL process is being hampered by economical and technical challenges. The high cost of synthesis gas, for instance, weighs heavily on the economics and competitiveness of the process limiting its wider application. This work presented a modified Gas-to-Liquid process that eliminates the costly synthesis gas production step. The proposed process utilized an alternative pathway for methane activation via the production of chloromethane derivatives which are then converted to hydrocarbons. It established that hydrocarbons mainly olefins can be economically produced from di- and tri-chloro- methanes over a typical iron-based Fischer Tropsch catalysts in a moving bed reactor at industrially relevant conditions. Some of the attractions of the proposed process include a) the elimination of the costly air separation plant requirement b) high process selectivity and c) significant reduction of carbon dioxide emissions thereby saving on feedstock loss and the costly CO2 removal and isolation processes.",
+      "extracted_metadata": {
+        "reaction_name": "Fischer-Tropsch process",
+        "used_starting_material": null,
+        "used_reactant": [
+          "methane"
+        ],
+        "generated_product": [
+          "hydrocarbons",
+          "olefins"
+        ],
+        "used_catalyst": [
+          "iron-based Fischer Tropsch catalysts"
+        ],
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": "other"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Fischer-Tropsch process"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "methane"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "hydrocarbons",
+            "olefins"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": [
+            "iron-based Fischer Tropsch catalysts"
+          ]
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "other"
+        }
+      }
+    },
+    "id": "W2075830912",
+    "index": "publications",
+    "score": 0.9879749
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "",
+      "publicationDate": "2011-01-01",
+      "title": "Fischer-tropsch catalyst activation for enhanced product selectivity",
+      "type": "article",
+      "url": "https://openalex.org/works/W2247675138",
+      "abstract": "Australia has large reserves of natural gas (195,000PJ (GA, 2009)), including conventional and unconventional resources. This ranks Australia as the 6th largest holder of natural gas reserves in Asia and the 12th largest in the world (CIA factbook and EIA). Converting part of these resources into easily transportable liquids (synthetic fuels) through the Gas to Liquid process (GTL) would decrease Australia dependency on imported oil and could help monetise gas resources not currently considered commercial, such as stranded and off-shore (associated) gas resources, but also tight gas, shale gas, and coal seam gas resources. In a typical GTL process, natural gas is converted into syngas (CO and H2), which is then transformed into aliphatic hydrocarbons, by way of Fischer-Tropsch Synthesis (FTS). FTS is a relatively unselective process in that it yields a broad distribution of hydrocarbon products from methane to heavy waxes (C1 to C100+). While gaseous hydrocarbons (short chains) generally need recycling and further processing to produce longer hydrocarbons, hydrocracking of the waxy, heavy ends is required to maximise the desired liquid products.",
+      "extracted_metadata": {
+        "reaction_name": "Fischer-Tropsch process",
+        "used_starting_material": null,
+        "used_reactant": [
+          "natural gas"
+        ],
+        "generated_product": [
+          "syngas (CO and H2)",
+          "aliphatic hydrocarbons",
+          "C1 to C100+ hydrocarbon products"
+        ],
+        "used_catalyst": [
+          "Ni/Al2O3"
+        ],
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": "supported"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Fischer-Tropsch process"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "natural gas"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "syngas (CO and H2)",
+            "aliphatic hydrocarbons",
+            "C1 to C100+ hydrocarbon products"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": [
+            "Ni/Al2O3"
+          ]
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "supported"
+        }
+      }
+    },
+    "id": "W2247675138",
+    "index": "publications",
+    "score": 0.9879362
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1016/s0920-5861(96)00245-3",
+      "publicationDate": "1997-06-01",
+      "title": "Fischer-Tropsch synthesis over iron-based catalysts in a slurry reactor. Reaction rates, selectivities and implications for improving hydrocarbon productivity",
+      "type": "article",
+      "url": "https://openalex.org/works/W2025001349",
+      "abstract": null
+    },
+    "id": "W2025001349",
+    "index": "publications",
+    "score": 0.9877494
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1126/science.aaf1835",
+      "publicationDate": "2016-03-03",
+      "title": "Selective conversion of syngas to light olefins",
+      "type": "article",
+      "url": "https://openalex.org/works/W2323504704",
+      "abstract": "Although considerable progress has been made in direct synthesis gas (syngas) conversion to light olefins (C2(=)-C4(=)) via Fischer-Tropsch synthesis (FTS), the wide product distribution remains a challenge, with a theoretical limit of only 58% for C2-C4 hydrocarbons. We present a process that reaches C2(=)-C4(=) selectivity as high as 80% and C2-C4 94% at carbon monoxide (CO) conversion of 17%. This is enabled by a bifunctional catalyst affording two types of active sites with complementary properties. The partially reduced oxide surface (ZnCrO(x)) activates CO and H2, and C-C coupling is subsequently manipulated within the confined acidic pores of zeolites. No obvious deactivation is observed within 110 hours. Furthermore, this composite catalyst and the process may allow use of coal- and biomass-derived syngas with a low H2/CO ratio.",
+      "extracted_metadata": {
+        "reaction_name": "Fischer-Tropsch process",
+        "used_starting_material": null,
+        "used_reactant": [
+          "carbon monoxide",
+          "hydrogen"
+        ],
+        "generated_product": [
+          "C2(=)-C4(=) hydrocarbons"
+        ],
+        "used_catalyst": [
+          "ZnCrO(x)",
+          "zeolites"
+        ],
+        "used_solvent": null,
+        "has_duration": "110 hours",
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": "supported"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Fischer-Tropsch process"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "carbon monoxide",
+            "hydrogen"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "C2(=)-C4(=) hydrocarbons"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": [
+            "ZnCrO(x)",
+            "zeolites"
+          ]
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": "110 hours"
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "supported"
+        }
+      }
+    },
+    "id": "W2323504704",
+    "index": "publications",
+    "score": 0.9874622
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1088/1757-899x/673/1/012010",
+      "publicationDate": "2019-12-01",
+      "title": "Fischer-Tropsch process from synthesis gas over fe-co/HZSM-5 catalyst to produce biofuel",
+      "type": "article",
+      "url": "https://openalex.org/works/W2996745282",
+      "abstract": "Abstract Fischer-Tropsch synthesis is the process of converting hydrogen into liquid fuel through several stages, namely: polymerization of CO and H 2 gases into long chain hydrocarbons. From the FT process that requires many of these steps, this research was carried out in order to be able to simplify the Fischer-Tropsch process through limited polymerization to obtain liquid fuels. By combining Co and Fe metal catalysts, it is expected to show better performance than the use of individual metals. Using a Fe-Co/HZSM-5 metal catalyst combination in a fixed bed reactor at a reaction temperature of 225°C. Fe-Co / HZSM-5 catalyst was made by wet impregnation, then Fe-Co/HZSM-5 catalyst was characterized using XRD, BET, and SEM-EDX. From the XRD results, the addition of Fe and Co did not change the crystal structure of the HZSM-5 catalyst. The surface area of the HZSM-5 was 526.03 m 2 /g and decreased after the addition of metal (Fe and Co) to the HZSM-5. This change indicates that Fe and Co particles were successfully dispersed on the surface of the HZSM-5 and inserted into the HZSM-5 pore. Hydrocarbon biofuel products are analyzed using GC-MS. The results of GC-MS hydrocarbon products showed the highest compounds for hydrocarbons C 13 and C 14 chains were 5.78% and 6.68% at 225 °C.",
+      "extracted_metadata": {
+        "reaction_name": "Fischer-Tropsch process",
+        "used_starting_material": null,
+        "used_reactant": [
+          "H2",
+          "CO"
+        ],
+        "generated_product": [
+          "hydrocarbons C 13",
+          "hydrocarbons C 14"
+        ],
+        "used_catalyst": [
+          "Fe-Co/HZSM-5"
+        ],
+        "used_solvent": null,
+        "has_duration": "225 degC",
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": "supported"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Fischer-Tropsch process"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "H2",
+            "CO"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "hydrocarbons C 13",
+            "hydrocarbons C 14"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": [
+            "Fe-Co/HZSM-5"
+          ]
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": "225 degC"
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "supported"
+        }
+      }
+    },
+    "id": "W2996745282",
+    "index": "publications",
+    "score": 0.98729956
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "",
+      "publicationDate": "2023-01-23",
+      "title": "Catalyst structure and method of Fischer-Tropsch synthesis",
+      "type": "article",
+      "url": "https://openalex.org/works/W4307608195",
+      "abstract": "The present invention includes Fischer-Tropsch catalysts, reactions using Fischer-Tropsch catalysts, methods of making Fischer-Tropsch catalysts, processes of hydrogenating carbon monoxide, and fuels made using these processes. The invention provides the ability to hydrogenate carbon monoxide with low contact times, good conversion rates and low methane selectivities. In a preferred method, the catalyst is made using a metal foam support.",
+      "extracted_metadata": {
+        "reaction_name": "Fischer-Tropsch process",
+        "used_starting_material": null,
+        "used_reactant": [
+          "carbon monoxide",
+          "hydrogen"
+        ],
+        "generated_product": [
+          "fuels"
+        ],
+        "used_catalyst": [
+          "metal foam"
+        ],
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": "supported"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Fischer-Tropsch process"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "carbon monoxide",
+            "hydrogen"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "fuels"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": [
+            "metal foam"
+          ]
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "supported"
+        }
+      }
+    },
+    "id": "W4307608195",
+    "index": "publications",
+    "score": 0.98724186
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1016/s0378-3820(03)00077-8",
+      "publicationDate": "2003-05-13",
+      "title": "Fischer–Tropsch synthesis: activation of low-alpha potassium promoted iron catalysts",
+      "type": "article",
+      "url": "https://openalex.org/works/W2026895675",
+      "abstract": null
+    },
+    "id": "W2026895675",
+    "index": "publications",
+    "score": 0.9872135
+  }
+]

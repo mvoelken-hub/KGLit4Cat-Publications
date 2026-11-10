@@ -1,0 +1,33 @@
+\begin{tabular}{lllll}
+\toprule
+property\_name & property\_kind & domain & range & mapped\_concept\_iri \\
+\midrule
+reportsReaction & object & Publication & ReactionInstance &  \\
+instantiates & object & ReactionInstance & CatalyticReaction &  \\
+hasStartingMaterial & object & ReactionInstance & ChemicalSpecies & http://purl.obolibrary.org/obo/RO\_0004009 \\
+hasReactant & object & ReactionInstance & ChemicalSpecies & http://purl.obolibrary.org/obo/RO\_0004009 \\
+hasProduct & object & ReactionInstance & ChemicalSpecies & http://purl.obolibrary.org/obo/RO\_0004008 \\
+hasSolvent & object & ReactionInstance & ChemicalSpecies & http://www.w3.org/ns/prov\#wasAssociatedWith \\
+hasCatalyst & object & ReactionInstance & Catalyst & http://purl.obolibrary.org/obo/RXNO\_0000425 \\
+doi & datatype & Publication & string &  \\
+openalexId & datatype & Publication & string &  \\
+score & datatype & Publication & decimal &  \\
+publicationDate & datatype & Publication & string &  \\
+catalystType & datatype & ReactionInstance & string & https://w3id.org/nfdi4cat/voc4cat\_0007014 \\
+catalystForm & datatype & ReactionInstance & string & TODO:catalyst\_form \\
+duration & datatype & ReactionInstance & string & https://schema.org/duration \\
+temperatureValue & datatype & ReactionInstance & decimal & http://semanticscience.org/resource/SIO\_000008 \\
+temperatureUnit & datatype & ReactionInstance & string & http://semanticscience.org/resource/SIO\_000008 \\
+temperatureRawText & datatype & ReactionInstance & string & http://semanticscience.org/resource/SIO\_000008 \\
+pressureValue & datatype & ReactionInstance & decimal & http://semanticscience.org/resource/SIO\_000008 \\
+pressureUnit & datatype & ReactionInstance & string & http://semanticscience.org/resource/SIO\_000008 \\
+pressureRawText & datatype & ReactionInstance & string & http://semanticscience.org/resource/SIO\_000008 \\
+yieldValue & datatype & ReactionInstance & decimal & http://semanticscience.org/resource/SIO\_000008 \\
+yieldUnit & datatype & ReactionInstance & string & http://semanticscience.org/resource/SIO\_000008 \\
+yieldRawText & datatype & ReactionInstance & string & http://semanticscience.org/resource/SIO\_000008 \\
+catalystQuantityValue & datatype & ReactionInstance & decimal & https://w3id.org/nfdi4cat/coremeta4cat/catalyst\_quantity \\
+catalystQuantityUnit & datatype & ReactionInstance & string & https://w3id.org/nfdi4cat/coremeta4cat/catalyst\_quantity \\
+catalystQuantityRawText & datatype & ReactionInstance & string & https://w3id.org/nfdi4cat/coremeta4cat/catalyst\_quantity \\
+mappedConcept & annotation &  &  &  \\
+\bottomrule
+\end{tabular}

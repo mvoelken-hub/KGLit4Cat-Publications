@@ -1,0 +1,804 @@
+[
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1016/j.joei.2019.02.002",
+      "publicationDate": "2019-02-13",
+      "title": "Insight into regeneration mechanism with sulfuric acid for arsenic poisoned commercial SCR catalyst",
+      "type": "article",
+      "url": "https://openalex.org/works/W2913955870",
+      "abstract": "Abstract Washing method by sulfuric acid was investigated in the context of deactivation and regeneration mechanism of arsenic deactivated catalyst over V2O5-WO3/TiO2 catalyst. The physical and chemical properties changes for catalysts were characterized by XRD, SEM, BET, Raman, XPS, NH3-TPD and in situ DRIFT, therein including morphology, structure, chemical states, surface acidity and functional groups. The results indicated that arsenic species mainly consisted of As2O5 on the arsenic poisoned catalyst surface. It increased N2O formation due to high active oxygen ratio of poisoned catalyst. After regeneration, the N2O formation was reduced. Arsenic oxides covering on catalyst surface could be almost wipe off with sulfuric acid. As-OH group disappeared, and the Bronsted and Lewis acid sites were re-exposed. Moreover, a new Bronsted acid sites (S-OH) was formed by chelating bidentate sulfates (SO42−) since it introduced S=O into anatase TiO2 lattice. However, some vanadium species were lost and the remaining species tended to form V4+, the activity had an apparent decrease in the temperature range of 300–400 °C.",
+      "extracted_metadata": {
+        "reaction_name": "Contact process",
+        "used_starting_material": null,
+        "used_reactant": [
+          "N2O"
+        ],
+        "generated_product": [
+          "NO"
+        ],
+        "used_catalyst": [
+          "V2O5-WO3/TiO2"
+        ],
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": {
+          "value": 300.0,
+          "unit": "degC",
+          "raw_text": null
+        },
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": "supported"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Contact process"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "N2O"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "NO"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": [
+            "V2O5-WO3/TiO2"
+          ]
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": {
+            "value": 300.0,
+            "unit": "degC",
+            "raw_text": null
+          }
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "supported"
+        }
+      }
+    },
+    "id": "W2913955870",
+    "index": "publications",
+    "score": 0.9795258
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1021/acsestengg.2c00417",
+      "publicationDate": "2023-04-12",
+      "title": "Mercury Removal from Concentrated Sulfuric Acid by Electrochemical Alloy Formation on Platinum",
+      "type": "article",
+      "url": "https://openalex.org/works/W4365138312",
+      "abstract": "High Resolution Image Download MS PowerPoint Slide Mercury is a highly toxic heavy metal, and improved removal processes are required in a range of industrial applications to limit the environmental impacts. At present, no viable removal methods exist commercially for mercury removal of aqueous solutions at high acidic conditions, such as concentrated sulfuric acid. Herein, we show that electrochemical mercury removal based on electrochemical alloy formation on platinum, forming PtHg 4, can be used to remove mercury from concentrated sulfuric acid. Thin platinum film electrodes and porous electrodes with supported platinum are used to remove more than 90% of mercury from concentrated acid from a zinc smelter with an initial mercury concentration of 0.3–0.9 mg/kg, achieving high-quality acid (<0.08 mg/kg) within 80 h. The removal process is carried out in 50 mL laboratory-scale experiments and scaled up to a 20 L pilot reactor with retained removal efficiency, highlighting excellent scalability of the method. In addition, the removal efficiency and stability of different electrode substrate materials are studied to ensure high-quality acid and a long lifetime of the electrodes in harsh chemical conditions, offering a potential method for future large-scale mercury decontamination of sulfuric acid.",
+      "extracted_metadata": {
+        "reaction_name": "Contact process",
+        "used_starting_material": null,
+        "used_reactant": [
+          "mercury",
+          "concentrated sulfuric acid"
+        ],
+        "generated_product": [
+          "PtHg4"
+        ],
+        "used_catalyst": [
+          "platinum"
+        ],
+        "used_solvent": null,
+        "has_duration": "80 h",
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "electrocatalysis",
+        "catalyst_form": "thin_film"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Contact process"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "mercury",
+            "concentrated sulfuric acid"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "PtHg4"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": [
+            "platinum"
+          ]
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": "80 h"
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "electrocatalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "thin_film"
+        }
+      }
+    },
+    "id": "W4365138312",
+    "index": "publications",
+    "score": 0.9792031
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1080/03602458008068061",
+      "publicationDate": "1980-01-01",
+      "title": "Catalytic Oxidation of Sulfur Dioxide",
+      "type": "article",
+      "url": "https://openalex.org/works/W2021375466",
+      "abstract": "Abstract The well-known industrial applications of sulfuric acid have made the oxidation of SO2 to SO3 a process of paramount practical importance. Nowadays vanadium catalysts are commonly used to catalyze the oxidation. Platinum and iron oxide catalysts, formerly employed in industrial practice, are no longer used.",
+      "extracted_metadata": {
+        "reaction_name": "Contact process",
+        "used_starting_material": null,
+        "used_reactant": [
+          "SO2"
+        ],
+        "generated_product": [
+          "SO3"
+        ],
+        "used_catalyst": [
+          "vanadium catalysts",
+          "platinum and iron oxide catalysts"
+        ],
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": "bulk"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Contact process"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "SO2"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "SO3"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": [
+            "vanadium catalysts",
+            "platinum and iron oxide catalysts"
+          ]
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "bulk"
+        }
+      }
+    },
+    "id": "W2021375466",
+    "index": "publications",
+    "score": 0.9791431
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1016/j.ijhydene.2006.06.053",
+      "publicationDate": "2006-08-07",
+      "title": "Stability of supported platinum sulfuric acid decomposition catalysts for use in thermochemical water splitting cycles",
+      "type": "article",
+      "url": "https://openalex.org/works/W2035229441",
+      "abstract": null
+    },
+    "id": "W2035229441",
+    "index": "publications",
+    "score": 0.9791245
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1016/j.rechem.2025.103006",
+      "publicationDate": "2025-12-23",
+      "title": "Cesium‑vanadium catalyst with excellent low-temperature catalytic activity for the oxidation of sulfur dioxide to sulfuric acid",
+      "type": "article",
+      "url": "https://openalex.org/works/W7116863492",
+      "abstract": "Vanadium-based catalysts are widely employed in the oxidation of sulfur dioxide to sulfuric acid. However, in the conventional mixed-milling process, the materials are typically subjected to one-step mixing, and the preparation of vanadium aqueous solution requires acid-base synergistic neutralization, resulting in a cumbersome preparation process and uneven distribution of active components. Furthermore, the catalytic activity is also severely constrained at low temperatures, leading to high SO 2 concentrations in emissions. Herein, a cesium‑vanadium-based catalyst demonstrating exceptional activity even at low temperatures has been created, in which the vanadium aqueous solution is formulated using pure water as the sole solvent without the involvement of any acids or alkalis, and this process is synergistically enhanced by the ultrasonic cavitation effect. The ultrasound cavitation treatment yields a more uniform distribution of components, endowing the catalyst with a more attractive and consistent appearance, along with a notable increase in average rigidity to roughly 116 N/cm. Owing to the specific introduction of cesium, coupled with the enhancement of active sites facilitated by diatomite pretreatment, the catalyst exhibits significant catalytic activity even under low-temperature conditions. Specifically, the conversion efficiency of sulfur dioxide attains 64 % at 410 °C.",
+      "extracted_metadata": {
+        "reaction_name": "Contact process",
+        "used_starting_material": null,
+        "used_reactant": [
+          "sulfur dioxide"
+        ],
+        "generated_product": [
+          "sulfuric acid"
+        ],
+        "used_catalyst": [
+          "cesium-vanadium"
+        ],
+        "used_solvent": [
+          "pure water"
+        ],
+        "has_duration": "410 degC",
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": "supported"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Contact process"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "sulfur dioxide"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "sulfuric acid"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": [
+            "cesium-vanadium"
+          ]
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": [
+            "pure water"
+          ]
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": "410 degC"
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "supported"
+        }
+      }
+    },
+    "id": "W7116863492",
+    "index": "publications",
+    "score": 0.9790994
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1134/s0965544111040049",
+      "publicationDate": "2011-07-01",
+      "title": "Joint aromatization of butane and hexane on alumina-platinum catalysts",
+      "type": "article",
+      "url": "https://openalex.org/works/W2011754228",
+      "abstract": "It has been found that the joint aromatization of C 4 and C 6 alkanes proceeds during the conversion of a butane and hexane mixture on alumina-platinum catalysts. It has been shown that a necessary condition for realization of the joint aromatization is the presence of highly dispersed platinum as ionic species (Pt σ ) and “hard” Lewis acid sites (L z ) of a catalyst. It has been determined that an optimum L z /Pt σ ratio for joint conversion reaction of light alkanes is from 1 to 2.",
+      "extracted_metadata": {
+        "reaction_name": "Contact process",
+        "used_starting_material": null,
+        "used_reactant": [
+          "C 4 alkanes",
+          "C 6 alkanes"
+        ],
+        "generated_product": [
+          "aromatics"
+        ],
+        "used_catalyst": [
+          "alumina-platinum catalysts"
+        ],
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": "supported"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Contact process"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "C 4 alkanes",
+            "C 6 alkanes"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "aromatics"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": [
+            "alumina-platinum catalysts"
+          ]
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "supported"
+        }
+      }
+    },
+    "id": "W2011754228",
+    "index": "publications",
+    "score": 0.97899127
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.20998/2413-4295.2025.01.10",
+      "publicationDate": "2025-04-22",
+      "title": "STUDY OF THE INFLUENCE OF THE QUALITY OF THE FEEDSTOCK ON THE PROCESS OF CATALYTIC OXIDATION OF SO2 TO SO3 IN A CONTACT APPARATUS FOR THE PRODUCTION OF SULFURIC ACID",
+      "type": "article",
+      "url": "https://openalex.org/works/W4410505868",
+      "abstract": "In the modern sulfuric acid industry, vanadium catalysts play an important role in the oxidation of sulfur dioxide (SO2) to sulfur trioxide (SO3). However, the efficiency of these catalysts can be significantly reduced by the presence of impurities such as calcium and iron. In this article, we will consider the effect of these impurities on the operation of the first layer of vanadium catalyst and try to identify the optimal conditions for ensuring stable operation of the process, starting from the feedstock and ending with the compounds formed as a result of combustion in furnaces. Special attention is paid to the requirements for the feedstock, because they can significantly affect first the heat transfer, and then the activity of the catalyst and its hydraulic resistance. It has been shown that factors such as the origin of sulfur, the method of its transportation and the combustion temperature can be the main sources of calcium impurities, while the temperature of the sulfur combustion process, corrosion products of metal parts of the furnace and boiler recycler are the main sources of iron impurities. In addition, attention should be paid to the influence of the physicochemical properties of the starting material on the process of formation of calcium and iron compounds. It is important to consider not only the composition of the raw material, but also the conditions of its extraction, transportation and storage, since this can significantly affect the quality of the final product and the efficiency of the production process. It should be noted that controlling and minimizing the level of calcium and iron impurities is important for ensuring the stability of sulfuric acid production and preventing possible technological failures. For this, it is necessary to develop effective methods for monitoring and regulating the content of these elements at different stages of production. Studies show that calcium and iron impurities can lead to the formation of precipitates on the catalyst surface, which complicates the accessibility of active reaction centers and reduces its activity. This negatively affects the conversion of SO2 to SO3 and, accordingly, the product yield. Understanding the mechanisms of action of these impurities will help optimize the composition of vanadium catalysts and develop methods to prevent possible negative consequences of their use.",
+      "extracted_metadata": {
+        "reaction_name": "Contact process",
+        "used_starting_material": null,
+        "used_reactant": [
+          "sulfur dioxide (SO2)"
+        ],
+        "generated_product": [
+          "sulfur trioxide (SO3)"
+        ],
+        "used_catalyst": [
+          "vanadium catalysts"
+        ],
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": "bulk"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Contact process"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "sulfur dioxide (SO2)"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "sulfur trioxide (SO3)"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": [
+            "vanadium catalysts"
+          ]
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "bulk"
+        }
+      }
+    },
+    "id": "W4410505868",
+    "index": "publications",
+    "score": 0.97893345
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "",
+      "publicationDate": "2000-01-01",
+      "title": "Industrial application of 9801 propylene de-arsenic catalyst",
+      "type": "article",
+      "url": "https://openalex.org/works/W2354602888",
+      "abstract": "The first industrial application of 9801 propylene de arsenic catalyst in Harbin Petrochemical Company was described.Operating result showed that the catalyst has high activity for arsenic removal from propylene,which well meets the requirement of high efficiency catalyst on quality of propylene feedstock.The catalyst is also featured by low cost,simplicity in use and mild operation condition,with no special requirement for use.",
+      "extracted_metadata": {
+        "reaction_name": "Contact process",
+        "used_starting_material": null,
+        "used_reactant": [
+          "propylene"
+        ],
+        "generated_product": [
+          "arsenic"
+        ],
+        "used_catalyst": [
+          "9801 propylene de arsenic catalyst"
+        ],
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": "other"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Contact process"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "propylene"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "arsenic"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": [
+            "9801 propylene de arsenic catalyst"
+          ]
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "other"
+        }
+      }
+    },
+    "id": "W2354602888",
+    "index": "publications",
+    "score": 0.9788864
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1007/bf00813671",
+      "publicationDate": "1995-01-01",
+      "title": "The influence of sulfur dioxide on propane oxidation activity over supported platinum and palladium",
+      "type": "article",
+      "url": "https://openalex.org/works/W2008168278",
+      "abstract": null
+    },
+    "id": "W2008168278",
+    "index": "publications",
+    "score": 0.97872955
+  }
+]

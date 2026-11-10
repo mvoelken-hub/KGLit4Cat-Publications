@@ -1,0 +1,500 @@
+[
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1007/978-94-009-2813-8_28",
+      "publicationDate": "1988-01-01",
+      "title": "Carbon Limits in Steam Reforming",
+      "type": "book-chapter",
+      "url": "https://openalex.org/works/W53859697",
+      "abstract": null
+    },
+    "id": "W53859697",
+    "index": "publications",
+    "score": 0.9910609
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1016/b978-1-78242-361-4.00004-2",
+      "publicationDate": "2015-01-01",
+      "title": "Hydrogen production by steam reforming of natural gas and other nonrenewable feedstocks",
+      "type": "book-chapter",
+      "url": "https://openalex.org/works/W1151591094",
+      "abstract": null
+    },
+    "id": "W1151591094",
+    "index": "publications",
+    "score": 0.98889714
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1016/b978-0-12-811197-0.00004-x",
+      "publicationDate": "2018-01-01",
+      "title": "Hydrogen Production From Biogas Reforming: An Overview of Steam Reforming, Dry Reforming, Dual Reforming, and Tri-Reforming of Methane",
+      "type": "book-chapter",
+      "url": "https://openalex.org/works/W2889501377",
+      "abstract": null
+    },
+    "id": "W2889501377",
+    "index": "publications",
+    "score": 0.9886881
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "",
+      "publicationDate": "2007-01-12",
+      "title": "Kinetics, catalysis and mechanism of methane steam reforming",
+      "type": "article",
+      "url": "https://openalex.org/works/W2946076784",
+      "abstract": "The search for an alternative clean and renewable energy source has become an urgent matter. One such energy-saving technology is a fuel cell; it uses fuel as the source of energy to produce electricity directly and the byproducts formed are not as voluminous and environmentally harmful. The conventional low temperature fuel cells use hydrogen as the fuel which is produced from conventional fuels via reforming. However, developing reformers for hydrocarbon fuels requires AN understanding of the fundamental mechanisms and kinetics studies. In this study, simple hydrocarbon fuel, namely methane, in external reforming or internal reforming within a solid oxide fuel cell has been studied because of its importance and with the hope that it will ultimately lead to an understanding of reforming of higher hydrocarbons, such as logistic fuels like JP-8. For this purpose, methane was used the starting point and building block for the progressive understanding of reforming of complex hydrocarbons. Methane steam reforming (MSR), CH4 + 2H2O = CO2 + 4H2 is, in fact, the most common method of producing commercial bulk hydrogen along with the hydrogen used in ammonia plants. United States alone produces 9 million tons of hydrogen per year. The overall MSR reaction CH4 + 2H2O = CO2 + 4H2 is in fact composed of two reactions, the water gas shift reaction, CO + H2O = CO2 + H2, which has recently been investigated by a former Ph.D. student in our group, Caitlin Callaghan. Here, the first reaction CH4 + H2O = CO + 3H2, i.e., methane reforming, is analyzed using a reaction route network approach to obtain the overall methane steam reforming network and kinetics. Kinetics providing detailed information of elementary reaction steps for this system, namely micro-kinetics, has not yet been fully addressed. Employing the theory of Reaction Route Network Theory, recently developed by Fishtik and Datta, and using the Unity Bond Index-Quadratic Exponential Potential (UBI-QEP) method of Shustorovich to predict elementary step kinetics coupled with transition-state theory, a detailed microkinetic model of steam and dry reforming of methane has been developed for Rh(111) and Ni(111) in this thesis. While there is extensive literature on it, the standard reference on the mechanism and kinetics of MSR is that of Xu and Froment, who proposed a 13 step mechanism. Based on the assumption of rate limiting steps for these overall reactions, Xu and Froment derived rate expressions for overall kinetics with fitted parameters. Here a more detailed micro-kinetic model of steam reforming of methane has been developed by adding 3 steps pertinent to carbon formation on the catalyst to Xu and Froment's mechanism. The complete set as well as the dominant reaction routes has been identified. This was accomplished first by enumerating the list of reaction routes and drawing this network. A program was written in Maple and was used to assist in creating the list of full routes, empty routes and intermediate nodes. This program reduces the amount of repetitive work that was needed in an earlier Matlab program when computing the list. After drawing the complete reaction network it was than converted into an equivalent electrical circuit and Multisim analysis was performed. Further, the resistances of various reaction steps were compared. From the reduced graph, it was determined that reaction steps pertaining to desorption of carbon dioxide, i.e., step s4, and intermediate methylene forming intermediate methylidyne, s11, are the rate limiting steps. Further, through simulation with Multisim, it was determined that in fact only 2 overall reactions are needed. Adding a third overall reaction results in a nodal balance error. A rate expression was developed based on assuming the above two rate determining steps, with remaining steps at pseudo equilibrium along with the quasi-steady state approximation. The rate expression however produced a substantial error in conversion when compared to the overall microkinetic model. \\tIn addition to computing the micro-kinetic model, experimental work for methane steam reforming was conducted. A steam to carbon ratio of 2:1 was fed to the packed bed reactor, where experimental conversion data were obtained. These data points for Ni and Rh catalyst were plotted against the model to see how well the simulation predicted the experimental results. Reasonable agreement was obtained.",
+      "extracted_metadata": {
+        "reaction_name": "Steam reforming",
+        "used_starting_material": null,
+        "used_reactant": [
+          "methane",
+          "water"
+        ],
+        "generated_product": [
+          "carbon dioxide",
+          "hydrogen"
+        ],
+        "used_catalyst": [
+          "Rh(111)",
+          "Ni(111)"
+        ],
+        "used_solvent": null,
+        "has_duration": "2:1 (steam to carbon ratio)",
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": "bulk"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Steam reforming"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "methane",
+            "water"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "carbon dioxide",
+            "hydrogen"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": [
+            "Rh(111)",
+            "Ni(111)"
+          ]
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": "2:1 (steam to carbon ratio)"
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "bulk"
+        }
+      }
+    },
+    "id": "W2946076784",
+    "index": "publications",
+    "score": 0.9882592
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1016/s0360-3199(97)00073-6",
+      "publicationDate": "1998-05-01",
+      "title": "Hydrocarbon steam-reforming process: Feedstock and catalysts for hydrogen production in China",
+      "type": "article",
+      "url": "https://openalex.org/works/W1974071925",
+      "abstract": null
+    },
+    "id": "W1974071925",
+    "index": "publications",
+    "score": 0.98819447
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.5419/bjpg2010-0013",
+      "publicationDate": "2010-09-30",
+      "title": "A STUDY ON THE CHARACTERISTICS OF THE REFORMING OF METHANE: A REVIEW",
+      "type": "review",
+      "url": "https://openalex.org/works/W2088183272",
+      "abstract": "Natural gas is a fossil fuel which is more suitable as raw materials for alternative energy generation. To be inserted in the global energy production as feedstock for power generation, natural gas needs to undergo a chemical technique known as reforming. The reforming of natural gas or reforming of methane, as it is also known, can be performed by different chemical techniques, each one with advantages and disadvantages with respect to cost/benefit ratio. The product of the reforming of natural gas, regardless of the process used for its realization, is a mixture of gases known as syngas. The aim of this work is to show the importance of the reforming of natural gas for alternative energy generation and analyze the differences between the methods used for the conversion of natural gas in syngas. A review of the literature on this subject is presented, including a discussion on the importance of developing the catalytic systems employed in the process of reforming of methane. Also, the challenges and future perspectives for this process have been considered.",
+      "extracted_metadata": {
+        "reaction_name": "Steam reforming",
+        "used_starting_material": null,
+        "used_reactant": [
+          "natural gas",
+          "methane"
+        ],
+        "generated_product": [
+          "syngas"
+        ],
+        "used_catalyst": null,
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": "other"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Steam reforming"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "natural gas",
+            "methane"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "syngas"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": null
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "other"
+        }
+      }
+    },
+    "id": "W2088183272",
+    "index": "publications",
+    "score": 0.9876288
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1201/9781003382263-5",
+      "publicationDate": "2024-09-13",
+      "title": "Steam Reforming Process for Conversion of Hydrocarbons to Hydrogen",
+      "type": "book-chapter",
+      "url": "https://openalex.org/works/W4402517366",
+      "abstract": "For many years, the steam reforming process has been used to generate hydrogen gas from a variety of feedstocks, including natural gas, propane, naphtha, and coal. The hydrocarbons are converted into hydrogen gas and carbon dioxide using a catalyst and high-temperature steam. This chapter provides an in-depth overview of the steam reforming process and its fundamental principles, including its chemistry and thermodynamics. It also looks at the different catalysts used in the process, as well as the role of temperature, pressure, and steam-to-carbon ratio in the reforming of lighter and heavier hydrocarbons. Finally, the design and operation of steam reforming reactors were explored, highlighting the ongoing research and development efforts to improve the process efficiency.",
+      "extracted_metadata": {
+        "reaction_name": "Steam reforming",
+        "used_starting_material": null,
+        "used_reactant": [
+          "natural gas",
+          "propane",
+          "naphtha",
+          "coal"
+        ],
+        "generated_product": [
+          "hydrogen gas",
+          "carbon dioxide"
+        ],
+        "used_catalyst": null,
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": "other"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Steam reforming"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "natural gas",
+            "propane",
+            "naphtha",
+            "coal"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "hydrogen gas",
+            "carbon dioxide"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": null
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "other"
+        }
+      }
+    },
+    "id": "W4402517366",
+    "index": "publications",
+    "score": 0.98762095
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1007/978-94-011-1454-7_103",
+      "publicationDate": "1993-01-01",
+      "title": "Achievements and Trends in Reforming System Design",
+      "type": "book-chapter",
+      "url": "https://openalex.org/works/W193218904",
+      "abstract": null
+    },
+    "id": "W193218904",
+    "index": "publications",
+    "score": 0.9874698
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "",
+      "publicationDate": "2011-01-01",
+      "title": "Progress in hydrogen production from steam reforming of hydrocarbons",
+      "type": "article",
+      "url": "https://openalex.org/works/W2379813613",
+      "abstract": "Steam reforming of hydrocarbons is the main method for the large-scale production of hydr gen.The research advance on hydrogen production from steam reforming of hydrocarbons,especially tl catalyst and process was reviewed.The development trend of the steam reforming of hydrocarbons was al outlined.",
+      "extracted_metadata": {
+        "reaction_name": "Steam reforming",
+        "used_starting_material": null,
+        "used_reactant": null,
+        "generated_product": null,
+        "used_catalyst": null,
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": null
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Steam reforming"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": null
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": null
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": null
+        }
+      }
+    },
+    "id": "W2379813613",
+    "index": "publications",
+    "score": 0.98735595
+  }
+]

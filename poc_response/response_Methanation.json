@@ -1,0 +1,570 @@
+[
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.3390/catal13111422",
+      "publicationDate": "2023-11-07",
+      "title": "Catalytic CO2 Methanation Reactors and Processes",
+      "type": "article",
+      "url": "https://openalex.org/works/W4388453172",
+      "abstract": "CO2 methanation is a chemical process that involves the conversion of carbon dioxide (CO2) and hydrogen (H2) gases into methane (CH4) and water (H2O) [...]",
+      "extracted_metadata": {
+        "reaction_name": "Methanation",
+        "used_starting_material": null,
+        "used_reactant": [
+          "CO2",
+          "H2"
+        ],
+        "generated_product": [
+          "CH4",
+          "H2O"
+        ],
+        "used_catalyst": null,
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": null
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Methanation"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "CO2",
+            "H2"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "CH4",
+            "H2O"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": null
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": null
+        }
+      }
+    },
+    "id": "W4388453172",
+    "index": "publications",
+    "score": 0.9846035
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.5281/zenodo.6899468",
+      "publicationDate": "1925-12-31",
+      "title": "Catalytic Formation of Methane from Carbon Monoxide and Hydrogen. Part I.",
+      "type": "article",
+      "url": "https://openalex.org/works/W4300910358",
+      "abstract": null
+    },
+    "id": "W4300910358",
+    "index": "publications",
+    "score": 0.9832947
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1039/tf946420335b",
+      "publicationDate": "1946-01-01",
+      "title": "The catalytic oxidation of methane to carbon monoxide and hydrogen",
+      "type": "article",
+      "url": "https://openalex.org/works/W2009065662",
+      "abstract": null
+    },
+    "id": "W2009065662",
+    "index": "publications",
+    "score": 0.9832869
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1002/9783527843954.ch1",
+      "publicationDate": "2023-12-22",
+      "title": "Methane",
+      "type": "other",
+      "url": "https://openalex.org/works/W4390095984",
+      "abstract": "Methane is either captured as natural gas from natural reservoirs or might be obtained via the hydrogenation of carbon dioxide. This reaction might be pursued as a chemical reaction (Chemical Sabatier) or methanogenic bacteria (biochemical Sabatier). The methanation of carbon dioxide is gaining attention as a potential energy storage technology since abundant green power can be converted into hydrogen and then the energy can be saved in the form of methane in existing gas grids. The advantages and disadvantages of the chemical and the biochemical Sabatier are discussed.",
+      "extracted_metadata": {
+        "reaction_name": "Methanation",
+        "used_starting_material": null,
+        "used_reactant": [
+          "carbon dioxide"
+        ],
+        "generated_product": [
+          "methane"
+        ],
+        "used_catalyst": [
+          "methanogenic bacteria"
+        ],
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "biocatalysis",
+        "catalyst_form": "other"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Methanation"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "carbon dioxide"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "methane"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": [
+            "methanogenic bacteria"
+          ]
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "biocatalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "other"
+        }
+      }
+    },
+    "id": "W4390095984",
+    "index": "publications",
+    "score": 0.98276603
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1080/01614947408071860",
+      "publicationDate": "1974-01-01",
+      "title": "Catalytic Methanation",
+      "type": "article",
+      "url": "https://openalex.org/works/W4234390125",
+      "abstract": "Abstract Methanation, the hydrogenation of carbon oxides to methane. has been the subject of a large number of catalytic studies during the past 70 years. In the earliest work. that of Sabatier and Senderens [l]. nickel was found to be a very efficient catalyst. Nickel is still the material of choice in most investigations of methanation, although ruthenium, cobalt, and iron are also active.",
+      "extracted_metadata": {
+        "reaction_name": "Methanation",
+        "used_starting_material": null,
+        "used_reactant": [
+          "carbon oxides"
+        ],
+        "generated_product": [
+          "methane"
+        ],
+        "used_catalyst": [
+          "nickel"
+        ],
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": "bulk"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Methanation"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "carbon oxides"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "methane"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": [
+            "nickel"
+          ]
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "bulk"
+        }
+      }
+    },
+    "id": "W4234390125",
+    "index": "publications",
+    "score": 0.98246354
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1515/chempap-2015-0216",
+      "publicationDate": "2015-11-30",
+      "title": "Reaction mechanisms of carbon dioxide methanation",
+      "type": "article",
+      "url": "https://openalex.org/works/W2473452261",
+      "abstract": "Abstract Constant increase of carbon dioxide emissions from anthropogenic activities leads to the search of options for its recycling and utilization. Although recycled CO",
+      "extracted_metadata": {
+        "reaction_name": "Methanation",
+        "used_starting_material": null,
+        "used_reactant": null,
+        "generated_product": null,
+        "used_catalyst": null,
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "other",
+        "catalyst_form": null
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Methanation"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": null
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": null
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "other"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": null
+        }
+      }
+    },
+    "id": "W2473452261",
+    "index": "publications",
+    "score": 0.98236
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.5281/zenodo.6899494",
+      "publicationDate": "1925-12-31",
+      "title": "Catalytic Formation of Methane from Carbon Monoxide and Hydrogen. Part II. Production of Fuel Gases rich in Methane",
+      "type": "article",
+      "url": "https://openalex.org/works/W4300643235",
+      "abstract": null
+    },
+    "id": "W4300643235",
+    "index": "publications",
+    "score": 0.98234963
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1002/cben.201600022",
+      "publicationDate": "2016-11-16",
+      "title": "Chemical Methanation of CO<sub>2</sub>: A Review",
+      "type": "review",
+      "url": "https://openalex.org/works/W2553528523",
+      "abstract": "Abstract The chemical methanation of CO 2 may become a ubiquitous process for the production of renewable substitute natural gas from any CO 2 source coupled with renewable hydrogen. The produced gas can be fed into the natural gas pipeline or used as fuel. Over the past few years, great efforts have been made in developing the process of CO 2 methanation. In this paper, the chemical methanation, which is the most common process, is reviewed. The purpose is to present a comprehensive updated review of the process. The CO 2 methanation, covering the process mechanisms, thermodynamics, catalysts, kinetics, and reactors are discussed with the aim to outline the pathways for the future development of the methanation process.",
+      "extracted_metadata": {
+        "reaction_name": "Methanation",
+        "used_starting_material": null,
+        "used_reactant": [
+          "CO 2",
+          "hydrogen"
+        ],
+        "generated_product": [
+          "methane"
+        ],
+        "used_catalyst": null,
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": "other"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Methanation"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "CO 2",
+            "hydrogen"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "methane"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": null
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "other"
+        }
+      }
+    },
+    "id": "W2553528523",
+    "index": "publications",
+    "score": 0.9822822
+  }
+]

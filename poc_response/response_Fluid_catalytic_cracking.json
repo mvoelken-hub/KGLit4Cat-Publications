@@ -1,0 +1,612 @@
+[
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1007/978-0-387-25789-1_6",
+      "publicationDate": "2007-01-09",
+      "title": "Kinetics and Mechanisms of Fluid Catalytic Cracking",
+      "type": "book-chapter",
+      "url": "https://openalex.org/works/W151778492",
+      "abstract": null
+    },
+    "id": "W151778492",
+    "index": "publications",
+    "score": 0.9885663
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "",
+      "publicationDate": "2002-01-01",
+      "title": "THERMAL CRACKING AND CATALYTIC CRACKING IN FLUID CATALYTIC CRACKING PROCESS",
+      "type": "article",
+      "url": "https://openalex.org/works/W2382107372",
+      "abstract": "Thermal cracking reactions lead to excessive light gas yield and lower overall product values during the present typical high temperature commercial FCC operation.Catalyst properties and operating parameters (reaction temperature,catalyst to oil ratio,contact time) have great influence on thermal and catalytic cracking reactions.There exist some points of reaction temperature inflexion for catalytic cracking reaction and thermal cracking reaction.Catalytic cracking reaction plays the main role below around 538?℃,and the ratio of (C 1+C 2)/ i -C 4 is less than 0.6.When the reaction temperature is over around 610?℃,thermal cracking reaction is the key process and the ratio of (C 1+C 2)/ i -C 4 is large than 1.2.Below the temperature of 550～610?℃,catalytic cracking reaction and thermal cracking reaction can occur simultaneously,and the latter becomes dominant one when the reaction temperature increases.The rate of catalytic cracking reaction can increase with increase of the ratio of catalyst to oil resulting in much more amounts of active sites involved.The deposition of product coke on the catalyst leads to more severe thermal cracking reaction by making the active sites inaccessible for future participation in the catalytic cracking cycle.The short contact time of oil and catalyst may suppress the detrimental thermal cracking reaction dramatically.A satisfactory result could be obtained through selection of proper catalyst and operating conditions (especially the very short contact time of gas and oil).",
+      "extracted_metadata": {
+        "reaction_name": "Fluid catalytic cracking",
+        "used_starting_material": null,
+        "used_reactant": [
+          "C1+C2",
+          "i-C4"
+        ],
+        "generated_product": null,
+        "used_catalyst": null,
+        "used_solvent": null,
+        "has_duration": "538?℃",
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": "supported"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Fluid catalytic cracking"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "C1+C2",
+            "i-C4"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": null
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": null
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": "538?℃"
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "supported"
+        }
+      }
+    },
+    "id": "W2382107372",
+    "index": "publications",
+    "score": 0.9854306
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1016/s0167-2991(07)80198-4",
+      "publicationDate": "2007-01-01",
+      "title": "Chapter 15 Catalytic cracking: The Future of an Evolving Process",
+      "type": "book-chapter",
+      "url": "https://openalex.org/works/W2107666203",
+      "abstract": null
+    },
+    "id": "W2107666203",
+    "index": "publications",
+    "score": 0.98515123
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1007/978-0-387-49962-8_5",
+      "publicationDate": "2011-01-01",
+      "title": "Catalytic Cracking Catalysts",
+      "type": "book-chapter",
+      "url": "https://openalex.org/works/W200593559",
+      "abstract": null
+    },
+    "id": "W200593559",
+    "index": "publications",
+    "score": 0.9850937
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1016/j.fuel.2017.09.099",
+      "publicationDate": "2017-10-11",
+      "title": "Direct crude oil cracking for producing chemicals: Thermal cracking modeling",
+      "type": "article",
+      "url": "https://openalex.org/works/W2762483558",
+      "abstract": "Abstract The direct cracking of crude oil is an interesting option for producing cheaply large amounts of petrochemicals. This may be carried out with catalyst and equipment similar to that of catalytic cracking, but at a temperature range between that of standard catalytic cracking and steam cracking. Thermal cracking will play a role in the conversion, but is rarely disclosed in experimental or modeling work. Thus, a crude oil and its fractions were thermally cracked and the products yields were modeled using a 9 lumps cracking scheme. It was found that heavy fraction cracks twice as fast as diesel fraction and ten times faster than gasoline fraction, with activation energies in the 140–200 kJ/mol range. Selectivity to ethylene, propylene and butenes were found similar in the operating range explored.",
+      "extracted_metadata": {
+        "reaction_name": "Fluid catalytic cracking",
+        "used_starting_material": null,
+        "used_reactant": [
+          "crude oil",
+          "its fractions"
+        ],
+        "generated_product": [
+          "ethylene",
+          "propylene",
+          "butenes"
+        ],
+        "used_catalyst": null,
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": {
+          "value": 140.0,
+          "unit": "kJ/mol",
+          "raw_text": null
+        },
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": "other"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Fluid catalytic cracking"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "crude oil",
+            "its fractions"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "ethylene",
+            "propylene",
+            "butenes"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": null
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": {
+            "value": 140.0,
+            "unit": "kJ/mol",
+            "raw_text": null
+          }
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "other"
+        }
+      }
+    },
+    "id": "W2762483558",
+    "index": "publications",
+    "score": 0.98490334
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1002/0471238961.fluidnee.a01.pub2",
+      "publicationDate": "2015-06-15",
+      "title": "Fluid Catalytic Cracking (<scp>FCC</scp>): Catalysts and Additives",
+      "type": "other",
+      "url": "https://openalex.org/works/W1522603830",
+      "abstract": "The fluid catalytic cracking (FCC) unit is the primary hydrocarbon conversion unit in the modern petroleum refinery. It uses heat and catalyst to convert a variety of high molecular weight feed types (eg, gas oils, cracked gas oils, deasphalted gas oils, and atmospheric/vacuum resids) into lighter, more valuable products such as gasoline, light fuel oil, and petrochemical feedstocks such as propylene and butylene. This article reviews the role of catalyst in the fluid catalytic cracking process. The design of catalyst, catalyst poisons, and the effect of catalyst on product yields and selectivity are covered. Also, the role of catalytic additives in maximizing light olefins and in controlling emissions is discussed. In addition, the importance of catalyst testing is covered, along with unconventional feedstocks and processes that are extending the role of FCC catalyst to areas beyond the original FCC process scope of converting heavy petroleum feedstocks into transportation fuels.",
+      "extracted_metadata": {
+        "reaction_name": "Fluid catalytic cracking",
+        "used_starting_material": null,
+        "used_reactant": [
+          "gas oils",
+          "cracked gas oils",
+          "deasphalted gas oils",
+          "atmospheric/vacuum resids"
+        ],
+        "generated_product": [
+          "gasoline",
+          "light fuel oil",
+          "propylene",
+          "butylene"
+        ],
+        "used_catalyst": null,
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": "other"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Fluid catalytic cracking"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "gas oils",
+            "cracked gas oils",
+            "deasphalted gas oils",
+            "atmospheric/vacuum resids"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "gasoline",
+            "light fuel oil",
+            "propylene",
+            "butylene"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": null
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "other"
+        }
+      }
+    },
+    "id": "W1522603830",
+    "index": "publications",
+    "score": 0.9847801
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1520/mnl5820131211806",
+      "publicationDate": "2013-01-01",
+      "title": "Fluid Catalytic Cracking",
+      "type": "book-chapter",
+      "url": "https://openalex.org/works/W3145638520",
+      "abstract": "Fluid catalytic cracking (FCC) is the most versatile secondary processing unit which produces high value distillates and light olefins from heavy petroleum residues. As a process it is nearly seventy years old and was primarily developed for making gasoline. Over these years, continuous improvements in hardware and catalyst systems enabled this process to expand its application span, offered flexibility, and also achieved superior product yields. The advent of zeolite based catalysts has brought in step change in yield as well as quality of gasoline, which also led to the development of riser cracking technology. Improved understanding of the reaction chemistry helped optimize the hardware, process conditions, and catalyst system to maximize gasoline, distillates, or olefins selectively. Further, the development of catalyst additives enabled FCC process to effectively handle environmental and fuel quality issues. FCC process is the highest value adding unit in refinery and hence continuous efforts are being made to improve the process through advanced modeling, optimization, and catalyst management. In this chapter the basic FCC process, and developments in system hardware, catalyst, and additives have been presented. Process and catalyst design guidelines, selection, monitoring, and process optimization aspects were summarized, and future challenges and opportunities were discussed.",
+      "extracted_metadata": {
+        "reaction_name": "Fluid catalytic cracking",
+        "used_starting_material": null,
+        "used_reactant": [
+          "heavy petroleum residues"
+        ],
+        "generated_product": [
+          "high value distillates",
+          "light olefins",
+          "gasoline"
+        ],
+        "used_catalyst": [
+          "zeolite based catalysts"
+        ],
+        "used_solvent": null,
+        "has_duration": "null",
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": "supported"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Fluid catalytic cracking"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "heavy petroleum residues"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "high value distillates",
+            "light olefins",
+            "gasoline"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": [
+            "zeolite based catalysts"
+          ]
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": "null"
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "supported"
+        }
+      }
+    },
+    "id": "W3145638520",
+    "index": "publications",
+    "score": 0.9844765
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "",
+      "publicationDate": "2016-02-20",
+      "title": "Multifunctional Two-Stage\\nRiser Catalytic Cracking\\nof Heavy Oil",
+      "type": "article",
+      "url": "https://openalex.org/works/W6959903094",
+      "abstract": "The continuous deterioration of feedstocks, the increasing\\ndemand\\nof diesel, and the increasingly strict environmental regulations on\\ngasoline call for the development of fluid catalytic cracking (FCC)\\ntechnology. To increase the feed conversion and the diesel yield as\\nwell as produce low-olefin gasoline, the multifunctional two-stage\\nriser (MFT) FCC process was proposed. Experiments were carried out\\nin a pilot-scale riser FCC apparatus. Results show that a higher reaction\\ntemperature is appropriate for heavy cycle oil (HCO) conversion, and\\nthe semispent catalyst can also be used to upgrade light FCC gasoline\\n(LCG). The synergistic process of cracking HCO and upgrading LCG in\\nthe second-stage riser can significantly enhance the conversion of\\nHCO while reducing the olefin content of gasoline at less expense\\nof gasoline yield. Furthermore, the novel structure riser reactor\\ncan increase the conversion of olefins in gasoline. Because of the\\nsignificant increase of HCO conversion, the fresh feedstock can be\\ncracked under mild conditions for producing more diesel without negative\\neffects on the feed conversion. Compared with the TSR FCC process,\\nin the MFT FCC process, the increased feed conversion, diesel and\\nlight oil yields can be achieved, at the same time, the olefin content\\nof gasoline decreased by approximately 17 wt %.",
+      "extracted_metadata": {
+        "reaction_name": "Fluid catalytic cracking",
+        "used_starting_material": null,
+        "used_reactant": [
+          "heavy cycle oil (HCO)",
+          "light FCC gasoline (LCG)"
+        ],
+        "generated_product": [
+          "gasoline"
+        ],
+        "used_catalyst": null,
+        "used_solvent": null,
+        "has_duration": "null",
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": "other"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Fluid catalytic cracking"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "heavy cycle oil (HCO)",
+            "light FCC gasoline (LCG)"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "gasoline"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": null
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": "null"
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "other"
+        }
+      }
+    },
+    "id": "W6959903094",
+    "index": "publications",
+    "score": 0.98424953
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1007/978-94-011-2747-9_3",
+      "publicationDate": "1992-01-01",
+      "title": "Engineering of Fluidized Catalytic Crackers",
+      "type": "book-chapter",
+      "url": "https://openalex.org/works/W2219714744",
+      "abstract": null
+    },
+    "id": "W2219714744",
+    "index": "publications",
+    "score": 0.98420453
+  }
+]

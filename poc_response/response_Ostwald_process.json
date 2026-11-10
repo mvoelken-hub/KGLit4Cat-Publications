@@ -1,0 +1,876 @@
+[
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1021/acsomega.4c09111",
+      "publicationDate": "2025-01-09",
+      "title": "Ostwald Process Intensification by Catalytic Oxidation of Nitric Oxide",
+      "type": "article",
+      "url": "https://openalex.org/works/W4406201311",
+      "abstract": "High Resolution Image Download MS PowerPoint Slide The Ostwald process is one of the commercial pathways for the production of nitric acid (HNO 3 ), a key component in the production of nitrate fertilizers. The Ostwald process is a mature, extensively studied, and highly optimized process, and there is still room for further intensification. The process can be further intensified by catalyzing the homogeneous oxidation of nitric oxide to nitrogen dioxide. In this work, we explore the NO to NO 2 oxidation capacity of ruthenium on γ-Al 2 O 3 support wash-coated on to a cordierite monolith. In a lab-scale setup with simulated feed comprising 10% NO, 6% O 2, 15% H 2 O and rest Ar, and 8% NO, 2% NO 2 5% O 2, 15% H 2 O and rest Ar, the ruthenium and γ-Al 2 O 3 wash-coated monoliths attained a steady conversion of 72 and 56%, respectively. A remarkable steady conversion of 20% more than the gas phase for 65 h over 4 days was presented by the Ru Wc,γ–Al 2 O 3,Cordierite catalyst in one of the pilot plants at Yara, a Norwegian fertilizer company. The results presented in this work clearly provide evidence to support the idea that ruthenium on a gamma-alumina catalyst support can oxidize NO to NO 2 under industrial nitric acid production conditions and mark an important step in the intensification of the Ostwald process.",
+      "extracted_metadata": {
+        "reaction_name": "Ostwald process",
+        "used_starting_material": null,
+        "used_reactant": [
+          "NO",
+          "O2",
+          "H2O"
+        ],
+        "generated_product": [
+          "NO2"
+        ],
+        "used_catalyst": [
+          "ruthenium on γ-Al 2 O 3"
+        ],
+        "used_solvent": null,
+        "has_duration": "65 h over 4 days",
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": "supported"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Ostwald process"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "NO",
+            "O2",
+            "H2O"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "NO2"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": [
+            "ruthenium on γ-Al 2 O 3"
+          ]
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": "65 h over 4 days"
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "supported"
+        }
+      }
+    },
+    "id": "W4406201311",
+    "index": "publications",
+    "score": 0.986899
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "",
+      "publicationDate": "2020-01-01",
+      "title": "Technological assessment of nitric acid production unit.",
+      "type": "dissertation",
+      "url": "https://openalex.org/works/W6987587079",
+      "abstract": "Nitric acid is one of the key components in fertilizer industry. It is mostly used for ammonium nitrate and calcium ammonium nitrate production. The raw material of nitric acid production is ammonia, which is produced from non-renewable natural gas. That is the reason why we should aim for lesser ammonia consumption. In this master‘s thesis the research was made to find out if NO oxidation reaction on platinum/alumina catalyst has an impact on product‘s yield.",
+      "extracted_metadata": {
+        "reaction_name": "Ostwald process",
+        "used_starting_material": null,
+        "used_reactant": [
+          "ammonia"
+        ],
+        "generated_product": [
+          "nitric acid"
+        ],
+        "used_catalyst": [
+          "platinum/alumina"
+        ],
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": "supported"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Ostwald process"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "ammonia"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "nitric acid"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": [
+            "platinum/alumina"
+          ]
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "supported"
+        }
+      }
+    },
+    "id": "W6987587079",
+    "index": "publications",
+    "score": 0.98487544
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "",
+      "publicationDate": "2016-01-01",
+      "title": "Present and future of nitric acid production",
+      "type": "article",
+      "url": "https://openalex.org/works/W3195632911",
+      "abstract": "This paper is intended to solve the problem of creating environmentally friendly technology for the nitric acid production. Also here shown present and future state of nitric acid production. On the basis of existing production the analysis of produced waste and methods of disposal was carry out. The new technological solutions for chemical industry that will achieve a low or non-waste technology is a cavitation of HOOH. It makes possible the intensification of absorption step. And two new technological methods of nitric acid production based on direct oxidation of ammonia to nitric acid. They represent a possible ways of chemical industry development and ground on the same principles.",
+      "extracted_metadata": {
+        "reaction_name": "Ostwald process",
+        "used_starting_material": null,
+        "used_reactant": [
+          "ammonia"
+        ],
+        "generated_product": [
+          "nitric acid"
+        ],
+        "used_catalyst": null,
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "other",
+        "catalyst_form": null
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Ostwald process"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "ammonia"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "nitric acid"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": null
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "other"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": null
+        }
+      }
+    },
+    "id": "W3195632911",
+    "index": "publications",
+    "score": 0.9847044
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1016/0960-8524(91)90178-m",
+      "publicationDate": "1991-01-01",
+      "title": "Reuse of nitric acid in the oxidative pretreatment step for the production of biomass-based fertilizers",
+      "type": "article",
+      "url": "https://openalex.org/works/W2053744931",
+      "abstract": null
+    },
+    "id": "W2053744931",
+    "index": "publications",
+    "score": 0.98362106
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.22271/reschem.2024.v5.i2a.155",
+      "publicationDate": "2024-07-01",
+      "title": "Method for low-cost synthesis of nitric acid by oxidation of ammonia derived from its compounds",
+      "type": "article",
+      "url": "https://openalex.org/works/W4405667214",
+      "abstract": "Objective: Nitic acid is one of the essential acids in a chemical laboratory, but it is also one of the more difficult to obtain for small scale chemical research. It is therefore of importance to look into low-cost synthesis of it. This paper describes a detailed procedure for synthesizing nitic acid from more common and easy to obtain compounds. Due to the difficulty of purchasing nitrate compounds, they will be avoided in the described process and substituted with more common ammonium compounds. Methods: The process in question is the Ostwald process, usually used for large scale acid production. It is modified and therefore a customized apparatus has been developed to convert abundant and easy to get ammonium compounds into the desired nitric acid. Results: The experimental analysis shows that although the developed setup manages to synthesize the nitic acid, the final efficiency will be determined by ammonia-air mixture and the gas flow rate.Conclusion: Despite its solubility in water it is very difficult to collect and it escapes the apparatus even after being bubbled in water several times. A possible solution for this “smoke” would be a fine quartz wool air filter that could be used to collect the ammonium nitrate, but its generation should be avoided because of the inefficiency it brings. The catalyst and apparatus used in this paper allow for the Ostwald process to be used for small scale nitric acid production offer better control over its production speed than the Birkeland-Eyde process.",
+      "extracted_metadata": {
+        "reaction_name": "Ostwald process",
+        "used_starting_material": null,
+        "used_reactant": [
+          "ammonium compounds",
+          "ammonia",
+          "air"
+        ],
+        "generated_product": [
+          "nitric acid"
+        ],
+        "used_catalyst": null,
+        "used_solvent": null,
+        "has_duration": "not specified",
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": "other"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Ostwald process"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "ammonium compounds",
+            "ammonia",
+            "air"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "nitric acid"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": null
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": "not specified"
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "other"
+        }
+      }
+    },
+    "id": "W4405667214",
+    "index": "publications",
+    "score": 0.9833121
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1002/jctb.5010041005",
+      "publicationDate": "1954-10-01",
+      "title": "The production of oxalic acid from new zealand plant wastes",
+      "type": "article",
+      "url": "https://openalex.org/works/W2059203845",
+      "abstract": "Abstract Recent work has shown that oxalic acid is capable of replacing sulphuric acid, in whole or part, in the superphosphate process. The most promising method of manufacturing cheap oxalic acid on a large scale is by nitric acid oxidation of plant wastes, provided that most of the nitric acid can be recovered for re‐use. With wood and straw waste, oxalic acid yields of up to 85% are obtained at optimum conditions of temperature, catalyst concentration and reaction time. However, the loss of nitric acid is sufficiently low only when fuming nitric acid is used. In this case the ratio of oxalic acid produced to nitric acid lost is 7:1. The nitric acid lost is converted largely into nitrous oxide and this conversion appears to be connected with the oxidation of the lignin fraction of the sawdust.",
+      "extracted_metadata": {
+        "reaction_name": "Ostwald process",
+        "used_starting_material": null,
+        "used_reactant": [
+          "plant wastes"
+        ],
+        "generated_product": [
+          "oxalic acid",
+          "nitrous oxide"
+        ],
+        "used_catalyst": [
+          "fuming nitric acid"
+        ],
+        "used_solvent": null,
+        "has_duration": "optimum conditions of temperature, catalyst concentration and reaction time",
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "other",
+        "catalyst_form": "other"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Ostwald process"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "plant wastes"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "oxalic acid",
+            "nitrous oxide"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": [
+            "fuming nitric acid"
+          ]
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": "optimum conditions of temperature, catalyst concentration and reaction time"
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "other"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "other"
+        }
+      }
+    },
+    "id": "W2059203845",
+    "index": "publications",
+    "score": 0.9832436
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.1002/1521-4125(200104)24:4<343::aid-ceat343>3.0.co;2-c",
+      "publicationDate": "2001-04-01",
+      "title": "Decreasing the Specific Heating Steam Consumption of the Nitric Acid Concentration Process by Energy Optimization",
+      "type": "article",
+      "url": "https://openalex.org/works/W2009411638",
+      "abstract": "High-strength nitric acid at a concentration above 98 wt.-% HNO3 is used in many chemical processes, especially in organic nitration. Nitric acid, manufactured by common processes, is generally produced at a concentration of 64 to 67 wt.-% HNO3. The classical process of concentrating weak nitric acid up to high-strength nitric acid is an extractive distillation process using sulfuric acid and live steam to cover the total energy requirements.",
+      "extracted_metadata": {
+        "reaction_name": "Ostwald process",
+        "used_starting_material": null,
+        "used_reactant": [
+          "HNO3"
+        ],
+        "generated_product": [
+          "NO2"
+        ],
+        "used_catalyst": null,
+        "used_solvent": [
+          "sulfuric acid",
+          "live steam"
+        ],
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "other",
+        "catalyst_form": "other"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Ostwald process"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "HNO3"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "NO2"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": null
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": [
+            "sulfuric acid",
+            "live steam"
+          ]
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "other"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "other"
+        }
+      }
+    },
+    "id": "W2009411638",
+    "index": "publications",
+    "score": 0.9827796
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "",
+      "publicationDate": "2009-01-01",
+      "title": "Study on Nitration Reaction of Peat Humic Acid",
+      "type": "article",
+      "url": "https://openalex.org/works/W2385456928",
+      "abstract": "The process of nitration reaction of peat humic acid has been investigated by analyzing the different effect for different reaction condition(such as,reaction time and the concentration of nitric acid).The effects include the contents of nitrogen and nitrate nitrogen,the contents of nitrate nitrogen after alkali hydrolyzation.The yield of the nitration of humic acid will reduce with the increase of nitrate concentration and the extension of the reaction time.The value of E4/E6 will increase;it proved that there is an oxidative degradation reaction of the humic acid in the process of nitration reaction.The max value of the nitrate nitrogen shows that the nitration mostly occurs on the aroma nuclear of the humic acid.",
+      "extracted_metadata": {
+        "reaction_name": "Ostwald process",
+        "used_starting_material": null,
+        "used_reactant": null,
+        "generated_product": null,
+        "used_catalyst": null,
+        "used_solvent": null,
+        "has_duration": null,
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "other",
+        "catalyst_form": null
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Ostwald process"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": null
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": null
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": null
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": null
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "other"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": null
+        }
+      }
+    },
+    "id": "W2385456928",
+    "index": "publications",
+    "score": 0.9825948
+  },
+  {
+    "document": {
+      "PatspecterEmbedding": [],
+      "doi": "10.37904/metal.2023.4734",
+      "publicationDate": "2023-01-01",
+      "title": "KINETICS OF THE REAGENT OXIDATION OF MOLYBDENUM DISULFIDE BY NITRIC ACID",
+      "type": "article",
+      "url": "https://openalex.org/works/W4390890353",
+      "abstract": "In the production of molybdenum compounds, JSC \"Almalyk MMC\" (Republic of Uzbekistan), for a long time used the method of nitric acid opening of raw material, replaced by the scheme of ammonia, then soda leaching of the cinder of the industrial product of molybdenum after oxidative roasting.In view of the improvement of technologies and equipment, there is an interest in environmentally friendly hydro-oxidative methods for their processing based on a strong oxidizer.Molybdenum disulfide in the composition of molybdenite concentrate is subject to surface passivation under the oxidizing conditions of processing the cinder of an industrial molybdenum product.The use of a strong oxidizing agent, nitric acid, makes it possible to overcome it in the hydrometallurgical process of oxidative leaching.The purpose of the study: to study the kinetics of the reaction of oxidative leaching of molybdenite concentrate of industrial production of molybdenum in nitric acid solutions, with the regeneration of nitric acid in them.Used samples of molybdenite concentrate, composition, wt%: 38.0 Mo; 2.5 Cu; 13.8 Fe; 0.7 Re; 0.009 P; 0.025 Sb; 0.05 WO3; 25.2 S; 10.8 SiO2; 0.42 H2O; in solution, %: HNO3 0-25, H2SO4 5, O2.Kinetics of reagent oxidation of a sulfide mineral in nitric acid solutions, in the temperature range of 24-70 °C, at atmospheric pressure.was studied by the rotating disk method with control of the mass of the disk and the concentration of Cu(II), Fe(III), Mo(VI), Re(VII) ions in solutions.Kinetic measurements were performed on powder samples of Mo disulfide concentrate pressed into discs, 10 mm in diameter.Elemental analysis of samples was performed spectrometrically by methods of potentiometry, pH-metry, atomic absorption and optical emission (ICP-Agilent 7500 IСP MS), IR-(Nicolet iS50 FT-IR spectrophotometer, ThermoScientific), X-ray phase (XRD Empyrean X-ray diffractometer PANalytical).andX-ray fluorescence analysis (Rigaku NEXCGEDX RF Analyzer), scanning electron microscopy (SEM-EDS EVO-MA, Carl Zeiss Instrum).The parameters of the kinetic equation of the leaching process are obtained, the order of the reaction in terms of the concentration of the oxidizing agent, the activation energy of the process of solid-phase diffusion of molybdenum (VI) ions from the crystal lattice of the mineral into the liquid phase of the solution are calculated.",
+      "extracted_metadata": {
+        "reaction_name": "Ostwald process",
+        "used_starting_material": null,
+        "used_reactant": [
+          "HNO3",
+          "H2SO4",
+          "O2"
+        ],
+        "generated_product": [
+          "Mo(VI)"
+        ],
+        "used_catalyst": null,
+        "used_solvent": [
+          "HNO3"
+        ],
+        "has_duration": "24-70 °C",
+        "has_temperature": null,
+        "has_pressure": null,
+        "has_yield": null,
+        "catalyst_quantity": null,
+        "catalyst_type": "heterogeneous_catalysis",
+        "catalyst_form": "powdered"
+      },
+      "mapped_metadata": {
+        "reaction_name": {
+          "curie": "VOC4CAT:0007009",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007009",
+          "value": "Ostwald process"
+        },
+        "used_starting_material": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": null
+        },
+        "used_reactant": {
+          "curie": "RO:0004009",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004009",
+          "value": [
+            "HNO3",
+            "H2SO4",
+            "O2"
+          ]
+        },
+        "generated_product": {
+          "curie": "RO:0004008",
+          "iri": "http://purl.obolibrary.org/obo/RO_0004008",
+          "value": [
+            "Mo(VI)"
+          ]
+        },
+        "used_catalyst": {
+          "curie": "RXNO:0000425",
+          "iri": "http://purl.obolibrary.org/obo/RXNO_0000425",
+          "value": null
+        },
+        "used_solvent": {
+          "curie": "prov:wasAssociatedWith",
+          "iri": "http://www.w3.org/ns/prov#wasAssociatedWith",
+          "value": [
+            "HNO3"
+          ]
+        },
+        "has_duration": {
+          "curie": "schema:duration",
+          "iri": "https://schema.org/duration",
+          "value": "24-70 °C"
+        },
+        "has_temperature": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_pressure": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "has_yield": {
+          "curie": "SIO:000008",
+          "iri": "http://semanticscience.org/resource/SIO_000008",
+          "value": null
+        },
+        "catalyst_quantity": {
+          "curie": "coremeta4cat:catalyst_quantity",
+          "iri": "https://w3id.org/nfdi4cat/coremeta4cat/catalyst_quantity",
+          "value": null
+        },
+        "catalyst_type": {
+          "curie": "VOC4CAT:0007014",
+          "iri": "https://w3id.org/nfdi4cat/voc4cat_0007014",
+          "value": "heterogeneous_catalysis"
+        },
+        "catalyst_form": {
+          "curie": "TODO:catalyst_form",
+          "iri": null,
+          "value": "powdered"
+        }
+      }
+    },
+    "id": "W4390890353",
+    "index": "publications",
+    "score": 0.98246217
+  }
+]
